@@ -3,15 +3,26 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
-
+    .row.mb-5
+      figure.fig-p10
+        img(src='@/assets/curso/temas/img2.svg', style="width: 40px")
+      figure.fig-p11
+        img(src='@/assets/curso/temas/img3.svg', style="width: 40px")
+      .col-auto.d-none.d-lg-block
+        figure.fig-p9
+          img(src='@/assets/curso/temas/img1.svg', style="width: 105px").m-auto
+      .col.px-5.py-4.bg-c13
+        p.text-white.mb-0.ms-4 A continuación, se presenta un mapa conceptual, el cual se sintetiza los elementos que componen y son relevantes para la implementación del marketing de comunidades virtuales:
+      figure.fig-p12
+        img(src='@/assets/curso/temas/img4.svg', style="width: 40px")
+      figure.fig-p13
+        img(src='@/assets/curso/temas/img5.svg', style="width: 20px")
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
           img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
       .col-auto
-        a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/anexo1.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto

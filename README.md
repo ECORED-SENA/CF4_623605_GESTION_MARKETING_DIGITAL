@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Marketing digital para comunidades virtuales**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/CF4_623605_GESTION_MARKETING_DIGITAL/](https://ecored-sena.github.io/CF4_623605_GESTION_MARKETING_DIGITAL/)
 
 #
 
