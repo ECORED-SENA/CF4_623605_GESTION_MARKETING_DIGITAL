@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       '<em>Marketing</em> digital para comunidades virtuales',
     descripcionCurso:
-      'El componente formativo busca desarrollar conocimientos respecto a el contenido digital, los canales digitales y los planes de comunicación digital, como estrategias del <em>marketing</em> digital; aplicables en todos los campos y diferentes tipos de organizaciones que desean generar valor de marca a través del marketing digital.',
+      'El componente formativo busca desarrollar conocimientos respecto a el contenido digital, los canales digitales y los planes de comunicación digital, como estrategias del <em>marketing</em> digital; aplicables en todos los campos y diferentes tipos de organizaciones que desean generar valor de marca a través del <em>marketing</em> digital.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.gif'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -215,19 +215,19 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Campañas Publicitaria Digital',
+      termino: 'Campañas publicitaria digital',
       significado:
-        'Estrategia de marketing digital, que busca dar a conocer un producto, servicio o marca, en medios digitales.',
+        'Estrategia de <em>marketing</em> digital, que busca dar a conocer un producto, servicio o marca, en medios digitales.',
     },
     {
       termino: '<em>KPI</em>',
       significado:
-        'Son las siglas de <em>key performance indicator</em>; son indicadores y herramientas de medición de los cuales se obtiene información útil del nivel de rendimiento de una campaña o estrategia de social media <em>marketing</em>.',
+        'Son las siglas de <em>key performance indicator</em>; son indicadores y herramientas de medición de los cuales se obtiene información útil del nivel de rendimiento de una campaña o estrategia de <em>social media marketing</em>.',
     },
     {
-      termino: 'Marketing de contenidos',
+      termino: '<em>Marketing</em> de contenidos',
       significado:
-        'Son estrategias de <em>marketing</em> enfocadas en ofrecer contenidos útiles y de ayuda a los usuarios principalmente a través del blog y del social media <em>marketing</em>.',
+        'Son estrategias de <em>marketing</em> enfocadas en ofrecer contenidos útiles y de ayuda a los usuarios principalmente a través del <em>blog</em> y del social media <em>marketing</em>.',
     },
     {
       termino: 'Medios digitales',
@@ -237,7 +237,7 @@ export default {
     {
       termino: 'Publicidad digital',
       significado:
-        'La publicidad digital es una estrategia de marketing implementada en medios digitales, con el fin de dar a conocer un producto, servicio o marca.',
+        'La publicidad digital es una estrategia de <em>marketing</em> implementada en medios digitales, con el fin de dar a conocer un producto, servicio o marca.',
     },
     {
       termino: 'Redes Sociales',
@@ -355,7 +355,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

@@ -142,7 +142,7 @@
     #t_3_1
     .titulo-segundo.color-acento-contenido
       h2 3.1 #[i Storytelling]
-    p.mb-4 En cuanto a la creación de contenido en el #[i marketing] digital se encuentra el #[span.txt-c1 #[i Storytelling]], el cual es un término anglosajón, derivado de las palabras #[i Story] que significa historia y #[i Telling] que significa contar; por lo cual se puede decir que #[span.txt-c1 #[i Storytelling]], traducido al idioma español es “contar una historia”; pero esta estrategia va más allá de contar una historia.
+    p.mb-4 En cuanto a la creación de contenido en el #[i marketing] digital se encuentra el #[span.txt-c1 #[i storytelling]], el cual es un término anglosajón, derivado de las palabras #[i story] que significa historia y #[i telling] que significa contar; por lo cual se puede decir que #[span.txt-c1 #[i storytelling]], traducido al idioma español es “contar una historia”; pero esta estrategia va más allá de contar una historia.
     .row.align-items-center.mb-5
       .col-lg-5.mb-4.mb-lg-0
         figure
@@ -155,8 +155,8 @@
                 figure
                   img(src='@/assets/curso/tema1/img2.svg', style="width: 90px")
               .col.p-4
-                p.mb-0 El #[span.txt-c1 #[i Storytelling]], adopta técnicas que permiten transmitir mensajes, que se convierten en todo un arte; lo cual permite cautivar la audiencia; a través de la creación de un contenido digital único; lo cual permitirá que el buyer personas, se identifique y cree emociones alrededor de la historia transmitida.
-        p Dentro de los #[span.txt-c1 #[i Storytelling]], se encuentran diferentes tipos, que soportan la creación del contenido digital como:
+                p.mb-0 El #[span.txt-c1 #[i storytelling]], adopta técnicas que permiten transmitir mensajes, que se convierten en todo un arte; lo cual permite cautivar la audiencia; a través de la creación de un contenido digital único; lo cual permitirá que el buyer personas, se identifique y cree emociones alrededor de la historia transmitida.
+        p Dentro de los #[span.txt-c1 #[i storytelling]], se encuentran diferentes tipos, que soportan la creación del contenido digital como:
         LineaTiempoD.color-acento-contenido
           p(numero="1" titulo="<em>Storytelling</em> de ficción") En cuanto a los #[i storytelling] de ficción, narran una historia de ficción, donde todos los hechos, acontecimientos, personajes, son irreales; pero la historia que se narra conecta o se identifica con el buyer personas.
           p(numero="2" titulo="<em>Storytelling</em> de histórico") En cuanto a los #[i storytelling] históricos, narra hechos reales del pasado, estos deben de transmitir un mensaje que conecta con la audiencia, debido a que transmite un episodio o época que marcó sus vidas, como también puede relatar la evolución de una marca o producto.
@@ -227,13 +227,13 @@
           .row(titulo="El mensaje")
             .col-12
               p Se debe crear un mensaje que cree conexión y despierte emoción a la audiencia, esto permitirá que sea recordado por la audiencia, el mensaje es el elemento principal del #[i storytelling]; por lo cual también se busca persuadir para que el público objetivo realice una acción.
-          .row(titulo="El Ambiente")
+          .row(titulo="El ambiente")
             .col-12
               p Son los elementos de ambientación que permitirán desarrollar la historia, estos elementos pueden ser visuales o en el caso de un audio, deben ser descritos correctamente.
-          .row(titulo="Los Personajes")
+          .row(titulo="Los personajes")
             .col-12
               p Son quienes permiten desarrollar la historia, y cumplen con el objetivo de transmitir el mensaje.
-          .row(titulo="El Conflicto")
+          .row(titulo="El conflicto")
             .col-12
               p Es lo que motiva a la audiencia y en muchos casos se identifica con el público objetivo.
       .col-lg-5
@@ -330,7 +330,7 @@
         .row.m-1.align-items-center
           .col-lg-5.mb-4.mb-lg-0
             h4 Búsqueda por navegación
-            p En cuanto a las búsquedas por navegación, el consumidor ya tiene en su mente el sitio que desea buscar o visitar por lo cual con ingresar la palabra de la marca o sitio web en el motor de búsqueda al no recordar su URL o simplemente desea realizarlos por este medio.  
+            p En cuanto a las búsquedas por navegación, el consumidor ya tiene en su mente el sitio que desea buscar o visitar por lo cual con ingresar la palabra de la marca o sitio #[i web] en el motor de búsqueda al no recordar su URL o simplemente desea realizarlos por este medio.  
             p Por ejemplo, se desea ingresar al portal SENA: Sofia Plus.
           .col-lg-7
             figure
@@ -338,7 +338,7 @@
         .row.m-1.align-items-center
           .col-lg-5.mb-4.mb-lg-0
             h4 Búsqueda por información
-            p En cuanto a la búsqueda por información, los consumidores mediante los motores de búsqueda solicitan información de un tema en específico, el no reconoce la página web por lo cual se guía por las sugerencias del motor de búsqueda. 
+            p En cuanto a la búsqueda por información, los consumidores mediante los motores de búsqueda solicitan información de un tema en específico, el no reconoce la página #[i web] por lo cual se guía por las sugerencias del motor de búsqueda. 
             p Por ejemplo, buscar una institución de educación superior, muestra la página del Ministerio de Educación.
           .col-lg-7
             figure
@@ -347,7 +347,7 @@
           .col-lg-5.mb-4.mb-lg-0
             h4 Búsqueda local
             p Y en cuanto a la búsqueda transaccional, se refiere a la compra que va a realizar el consumidor por lo cual se denomina transacción, también existen las búsquedas locales, referentes a una ubicación geográfica; como puede ser un establecimiento público o una ciudad. 
-            p Por ejemplo, Autolavados en Bogotá.
+            p Por ejemplo, autolavados en Bogotá.
           .col-lg-7
             figure
               img(src='@/assets/curso/tema3/img6.png', style="width: 650px").m-auto
@@ -358,7 +358,7 @@
           img(src='@/assets/curso/tema3/img21.svg' alt='AvatarTop')
           .tarjeta.color-secundario2
             .text-white.p-4
-              p.text-center Establecer los objetivos que se desean lograr con la optimización del sitio #[i web], a través de los motores de búsqueda; los cuales pueden ser incremento del tráfico, capturar leads, incrementar las ventas, crear valor de marca, entre otros.
+              p.text-center Establecer los objetivos que se desean lograr con la optimización del sitio #[i web], a través de los motores de búsqueda; los cuales pueden ser incremento del tráfico, capturar #[i leads], incrementar las ventas, crear valor de marca, entre otros.
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/tema3/img22.svg' alt='AvatarTop')
@@ -395,7 +395,7 @@
             figure
               img(src='@/assets/curso/tema3/img25.svg', style="width: 80px").m-auto
           .col
-            p.mb-0 Dado que es una estrategia de #[i marketing] digital pagada a diferencia del SEO, permite segmentar y llegar más rápido al buyer persona, aumenta la visibilidad de la marca, se requiere de pequeñas inversiones.
+            p.mb-0 Dado que es una estrategia de #[i marketing] digital pagada a diferencia del SEO, permite segmentar y llegar más rápido al #[i buyer] persona, aumenta la visibilidad de la marca, se requiere de pequeñas inversiones.
         p.mb-0 Al buscar ventas de autos en el motor de búsqueda de Google, se encuentran páginas que emplean una estrategia de SEM, la cual al inicio de la búsqueda aparece con la palabra “Anuncio”.
     .titulo-sexto.color-acento-contenido.mb-5
       p.mb-0 #[b Figura 2]. #[i Estrategia de SEM]
@@ -418,7 +418,7 @@
     #t_3_3
     .titulo-segundo.color-acento-contenido
       h2 3.3 #[i Email marketing]
-    p.mb-4 En cuanto al email #[i marketing] o #[i emailing], #[span.txt-c1 es una estrategia de marketing digital, la cual basa su estrategia de contenido empleando como medio digital el correo electrónico, el cual su fin es la publicidad o promoción de productos, servicios o marcas].
+    p.mb-4 En cuanto al #[i email marketing] o #[i emailing], #[span.txt-c1 es una estrategia de #[i marketing] digital, la cual basa su estrategia de contenido empleando como medio digital el correo electrónico, el cual su fin es la publicidad o promoción de productos, servicios o marcas].
     .row.align-items-center.mb-4
       .col-lg-8.mb-4.mb-lg-0
         .row.mb-3
@@ -506,7 +506,7 @@
     Separador
     #t_3_4
     .titulo-segundo.color-acento-contenido
-      h2 3.4 Social media #[i marketing]
+      h2 3.4 #[i Social media marketing]
     .row.align-items-center.mb-5
       .col-lg-4.mb-4.mb-lg-0
         figure
@@ -521,7 +521,7 @@
                   img(src='@/assets/curso/tema1/img9.svg', style="width: 70px")
               .col.p-3
                 p.mb-0 El fin de crear estrategia de campañas publicitarias a través de las redes sociales es la de generar conexión e interacción con el #[i buyer] persona (#[i Engagement]) e intercambio (#[i Social Sharing]), lo que permite aumentar el tráfico, la visibilidad de la marca, incremento de las ventas.
-    p.mb-5 Dentro de las principales redes sociales para implementar el social media #[i marketing] se encuentran:
+    p.mb-5 Dentro de las principales redes sociales para implementar el #[i social media marketing] se encuentran:
     .row.mb-5
       .col-sm-6.col-xl-4.mb-4
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")

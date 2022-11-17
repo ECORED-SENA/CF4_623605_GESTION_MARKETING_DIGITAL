@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span(style="color:#FFF") 2
       h1 Canales digitales para el #[i marketing]
-    p.mb-4 Las estrategias de #[i marketing] de contenido requieren de plataformas que permitan su divulgación, por ello a través del internet o diferentes plataformas, se crean los canales digitales que permiten la divulgación de las estrategias que permitan atraer buyer personas o #[i leads], con el fin de crear consumo ya sea de productos, servicios o de la marca.
+    p.mb-4 Las estrategias de #[i marketing] de contenido requieren de plataformas que permitan su divulgación, por ello a través del internet o diferentes plataformas, se crean los canales digitales que permiten la divulgación de las estrategias que permitan atraer #[i buyer] personas o #[i leads], con el fin de crear consumo ya sea de productos, servicios o de la marca.
     .row.align-items-center.mb-4
       .col-lg-4.mb-4.mb-lg-0
         figure
@@ -19,15 +19,15 @@
                 figure
                   img(src='@/assets/curso/tema1/img2.svg', style="width: 90px")
               .col.p-4
-                p.mb-0 Ninguna campaña de #[i Marketing] de contenidos está completa si no cuenta con una sólida estrategia de distribución de los diferentes materiales y es que de este aspecto depende que el contenido llegue a la persona adecuada a través del canal idóneo y en el momento oportuno.
-        p Como ves, ¡No es poca cosa! para comenzar el diseño de la estrategia de distribución, #[span.txt-c1 se debe pensar en los diferentes canales que se pueden utilizar para difundir y entregar los contenidos de forma eficaz y eficiente], como las redes sociales y el email.
+                p.mb-0 Ninguna campaña de #[i marketing] de contenidos está completa si no cuenta con una sólida estrategia de distribución de los diferentes materiales y es que de este aspecto depende que el contenido llegue a la persona adecuada a través del canal idóneo y en el momento oportuno.
+        p Como ves, ¡No es poca cosa! para comenzar el diseño de la estrategia de distribución, #[span.txt-c1 se debe pensar en los diferentes canales que se pueden utilizar para difundir y entregar los contenidos de forma eficaz y eficiente], como las redes sociales y el #[i email].
         p En cuanto a los canales digitales, #[span.txt-c1 es importante hablar del #[i inbound marketing], la cual es una estrategia de #[i marketing] diseñada para atraer consumidores a través de la creación de contenido de calidad], en cual emplea como medio de divulgación los canales digital, por lo cual se debe elegir el más idóneo de acuerdo con la estrategia a crear y el público objetivo.
     .row.align-items-center
       .col-md-auto.mb-4.mb-md-0
         figure
           img(src='@/assets/curso/tema2/img1.svg', style="width: 90px").m-auto
       .col-md
-        p.mb-0 Por lo cual se puede definir un canal digital, como el medio por el cual se transmite información, se comunica o se ofrece y vende un servicio o productos; empleando Computadores, Tablet o Celulares, conectados a internet; y en cuanto a los canales digitales del #[i marketing], son los medios empleados para divulgar sus estrategias de contenido digital.
+        p.mb-0 Por lo cual se puede definir un canal digital, como el medio por el cual se transmite información, se comunica o se ofrece y vende un servicio o productos; empleando computadores, #[i tablet] o celulares, conectados a internet; y en cuanto a los canales digitales del #[i marketing], son los medios empleados para divulgar sus estrategias de contenido digital.
     Separador
     #t_2_1
     .titulo-segundo.color-acento-contenido
@@ -46,7 +46,7 @@
                   img(src='@/assets/curso/tema1/img9.svg', style="width: 90px")
               .col.p-4
                 p.mb-0 Para entrar en contexto en cuanto a los tipos de canales digitales, es de resaltar que estos gozan de una gran popularidad en la actualidad, por lo cual es un grave error dejarlas fuera de cualquier estrategia de distribución de contenidos.
-        p Y es que, así como Uber es la mayor empresa de transporte del mundo sin contar con una flota de autos, Facebook, Twitter, YouTube e Instagram forman parte del selecto grupo de líderes mundiales en contenidos digitales sin siquiera encargarse de producirlos; simplemente son plataformas que nos conectan a cientos de millones en todo el mundo, en las que también se encuentra el buyer persona de cualquier marca.
+        p Y es que, así como Uber es la mayor empresa de transporte del mundo sin contar con una flota de autos, Facebook, Twitter, YouTube e Instagram forman parte del selecto grupo de líderes mundiales en contenidos digitales sin siquiera encargarse de producirlos; simplemente son plataformas que nos conectan a cientos de millones en todo el mundo, en las que también se encuentra el #[i buyer] persona de cualquier marca.
     .row.align-items-center.mb-4
       .col-md-auto.mb-4.mb-md-0
         figure
@@ -59,15 +59,15 @@
         .row.m-1.align-items-center
           .col-lg-7.mb-4.mb-lg-0
             h4 Plataformas de #[i social media]
-            p Son conocidos como medios sociales, el cual es uno de los medios de comunicación digital más recurrente de las organizaciones para lanzar estrategias de marketing digital, debido a que estas permiten estar en comunicación y comunidad con los consumidores digitales.
-            p Dentro de estas plataformas, no solo se encuentran las redes sociales, también se encuentran como medios estratégicos #[span.txt-c1 los blogs], #[span.txt-c1 geolocalización], el cual permite que las marcas se visualicen en dispositivos móviles; #[span.txt-c1 los marcadores], permiten ser visualizado en la redes sociales, y multimedia permite la divulgación de contenido multimedia como #[i Livestream] o YouTube.
+            p Son conocidos como medios sociales, el cual es uno de los medios de comunicación digital más recurrente de las organizaciones para lanzar estrategias de #[i marketing] digital, debido a que estas permiten estar en comunicación y comunidad con los consumidores digitales.
+            p Dentro de estas plataformas, no solo se encuentran las redes sociales, también se encuentran como medios estratégicos #[span.txt-c1 los #[i blogs]], #[span.txt-c1 geolocalización], el cual permite que las marcas se visualicen en dispositivos móviles; #[span.txt-c1 los marcadores], permiten ser visualizado en la redes sociales, y multimedia permite la divulgación de contenido multimedia como #[i Livestream] o YouTube.
           .col-lg-5
             figure
               img(src='@/assets/curso/tema2/img3.png', style="width: 450px").m-auto
         .row.m-1.align-items-center
           .col-lg-7.mb-4.mb-lg-0
             h4 #[i Email] de #[i Marketing]
-            p Los email son principalmente empleados para dar a conocer los portafolios de productos y servicios de las organizaciones, también es un medio empleado para comunicarse con los suscriptores. 
+            p Los #[i email] son principalmente empleados para dar a conocer los portafolios de productos y servicios de las organizaciones, también es un medio empleado para comunicarse con los suscriptores. 
             p Dentro de las principales ventajas se encuentra que es de bajo costo, permite ser comprobado, es de fácil gestión, es personalizado y logra la fidelización de los #[i buyer] persona o leads.
           .col-lg-5
             figure
@@ -107,7 +107,7 @@
               li 
                 i.fas.fa-check-circle(style="color:#764CF0")
                 |
-                p.mb-0 #[b Chat]: La mensajería instantánea, se ha convertido en uno de los medios de comunicación más efectivos, empleados por los consumidores digitales, ya que buscan respuestas inmediatas; por lo cual puede iniciar una conversación entre empresa y cliente.
+                p.mb-0 #[b #[i Chat]]: La mensajería instantánea, se ha convertido en uno de los medios de comunicación más efectivos, empleados por los consumidores digitales, ya que buscan respuestas inmediatas; por lo cual puede iniciar una conversación entre empresa y cliente.
               li 
                 i.fas.fa-check-circle(style="color:#764CF0")
                 |
@@ -126,7 +126,7 @@
     #t_2_2
     .titulo-segundo.color-acento-contenido
       h2 2.2 Acciones de #[i marketing] de contenidos digitales
-    p.mb-4 El #[i marketing] de contenido busca atraer y fidelizar al buyer persona o leads, a través de la creación de contenido digital, en el cual implementan todas sus estrategias a través de diferentes canales digitales, en los cuales accede el público objetivo.
+    p.mb-4 El #[i marketing] de contenido busca atraer y fidelizar al #[i buyer] persona o #[i leads], a través de la creación de contenido digital, en el cual implementan todas sus estrategias a través de diferentes canales digitales, en los cuales accede el público objetivo.
     .row.align-items-center.mb-5
       .col-lg-4.mb-4.mb-lg-0
         figure
@@ -139,8 +139,8 @@
                 figure
                   img(src='@/assets/curso/tema1/img9.svg', style="width: 90px")
               .col.p-4
-                p.mb-0 Las estrategias de #[i marketing] de contenido permiten a las organizaciones aumentar las ventas de productos o servicios, crear conexión con el buyer persona o #[i leads], posicionar la marca, crear comunicación de valor de la marca y ofrecer solución a las necesidades.
-        p Como se ha mencionado la estrategia de #[i inbound marketing], es principalmente empleada en el #[i marketing] digital y en el #[i marketing] de contenido; el #[i inbound] de #[i marketing] se centra en atraer el interés del buyer persona a través de la experiencia; por lo cual se basa en los siguientes pilares:
+                p.mb-0 Las estrategias de #[i marketing] de contenido permiten a las organizaciones aumentar las ventas de productos o servicios, crear conexión con el #[i buyer] persona o #[i leads], posicionar la marca, crear comunicación de valor de la marca y ofrecer solución a las necesidades.
+        p Como se ha mencionado la estrategia de #[i inbound marketing], es principalmente empleada en el #[i marketing] digital y en el #[i marketing] de contenido; el #[i inbound] de #[i marketing] se centra en atraer el interés del #[i buyer] persona a través de la experiencia; por lo cual se basa en los siguientes pilares:
     .titulo-sexto.color-acento-contenido.mb-5
       p.mb-0 #[b Figura 1]. #[i Pilares Inbound Marketing]
     .row.justify-content-center.mb-5
@@ -149,7 +149,7 @@
           img(src='@/assets/curso/tema2/img4.svg')
     .row.align-items-center.mb-5
       .col-lg-8.mb-4.mb-lg-0
-        p Por lo cual para implementar acciones de #[i Marketing] de contenido se debe seguir la estrategia de #[i Inbound Marketing], el cual atrae el público objetivo, mediante la divulgación de contenido digital, que respeta los espacios y experiencias de cada consumidor; #[span.txt-c1 esta estrategia permite aumentar el tráfico, generar reconocimiento de marca, construir conexión con la audiencia, generar ventas, genera #[i leads]].
+        p Por lo cual para implementar acciones de #[i marketing] de contenido se debe seguir la estrategia de #[i inbound marketing], el cual atrae el público objetivo, mediante la divulgación de contenido digital, que respeta los espacios y experiencias de cada consumidor; #[span.txt-c1 esta estrategia permite aumentar el tráfico, generar reconocimiento de marca, construir conexión con la audiencia, generar ventas, genera #[i leads]].
         p La estrategia de #[i inbound marketing], es principalmente empleada en el #[i marketing] digital y en el #[i marketing] de contenido; #[span.txt-c1 el #[i inbound] de #[i marketing] se centra en atraer el interés del #[i buyer] persona a través de la experiencia].
         p Veamos más sobre el mismo, a continuación:
       .col-lg-4
@@ -162,13 +162,13 @@
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.mb-5 Dentro de las acciones a adelantar de #[i marketing] de contenido digital se encuentran:
     TabsB.color-acento-contenido
-      .p-4.py-md-5(titulo="Social Media" :icono="require('@/assets/curso/tema2/img6.svg')").bg-c7
+      .p-4.py-md-5(titulo="<em>Social Media</em>" :icono="require('@/assets/curso/tema2/img6.svg')").bg-c7
         .row.justify-content-center.align-items-center
           .col-lg-6.mb-4.mb-lg-0
-            h4 Social Media
-            p Las acciones de social media permite crear vínculos con el #[i buyer] persona, a través de plataformas sociales, el cual se crea principalmente en redes sociales, las cuales permiten impulsar las estrategias de #[i marketing] digital a través de la divulgación de contenido.
-            p Esta acciones de social media permite hacer más visible la marca, disminuir costos de inversión en estrategias de #[i marketing], crear conexión y retroalimentación por parte del #[i buyer] persona, permite crear comunidades virtuales, aumenta el tráfico de sitios web.
-            p Para implementar una estrategia de social media se debe:
+            h4 #[i Social Media]
+            p Las acciones de #[i social media] permite crear vínculos con el #[i buyer] persona, a través de plataformas sociales, el cual se crea principalmente en redes sociales, las cuales permiten impulsar las estrategias de #[i marketing] digital a través de la divulgación de contenido.
+            p Esta acciones de #[i social media] permite hacer más visible la marca, disminuir costos de inversión en estrategias de #[i marketing], crear conexión y retroalimentación por parte del #[i buyer] persona, permite crear comunidades virtuales, aumenta el tráfico de sitios #[i web].
+            p Para implementar una estrategia de #[i social media] se debe:
             ul.lista-ul
               li 
                 i.fas.fa-check-circle(style="color:#764CF0")
@@ -181,7 +181,7 @@
               li 
                 i.fas.fa-check-circle(style="color:#764CF0")
                 |
-                p.mb-0 Establecer los objetivos de la estrategia de social media.
+                p.mb-0 Establecer los objetivos de la estrategia de #[i social media].
               li 
                 i.fas.fa-check-circle(style="color:#764CF0")
                 |
@@ -205,7 +205,7 @@
               li 
                 i.fas.fa-check-circle(style="color:#764CF0")
                 |
-                p.mb-0 Realizar seguimiento y evaluación a estrategia de social media.
+                p.mb-0 Realizar seguimiento y evaluación a estrategia de #[i social media].
           .col-lg-5
             figure
               img(src='@/assets/curso/tema2/img9.png', style="width: 350px").m-auto
@@ -214,9 +214,9 @@
           .col-lg-6.mb-4.mb-lg-0
             h4 Video #[i Marketing]
             p El video #[i marketing], hace parte de las estrategias del #[i marketing] digital, a través de la divulgación de contenido, mediante material audiovisuales, que permite impulsar un producto, servicio o marca.
-            p Dentro de las acciones del vídeo #[i marketing] se encuentran unboxing “desempaquetado”, busca que los consumidores experimenten conocer un producto o marca, por lo cual se graba un video en el que estos se encuentran destapando el producto; por lo general son producidos por influencers.
-            p Dentro de los video #[i marketing] se encuentran los tutoriales, en el cual mediante un video de informa o enseña sobre un tema de interés; dentro de estos videos de #[i marketing], también se destacan los Webinar.
-            p Los webinar o videoconferencias, permiten informar o tratar de un tema de interés para el buyer personas; estos webinar por lo general son seminarios que se transmiten en vivo o pueden estar pregrabados. La implementación de los webinar permite educar, informar sobre un producto o servicios, atraer nuevos #[i leads].
+            p Dentro de las acciones del video #[i marketing] se encuentran #[i unboxing] “desempaquetado”, busca que los consumidores experimenten conocer un producto o marca, por lo cual se graba un video en el que estos se encuentran destapando el producto; por lo general son producidos por #[i influencers].
+            p Dentro de los video #[i marketing] se encuentran los tutoriales, en el cual mediante un video de informa o enseña sobre un tema de interés; dentro de estos videos de #[i marketing], también se destacan los #[i webinar].
+            p Los #[i webinar] o videoconferencias, permiten informar o tratar de un tema de interés para el #[i buyer] personas; estos #[i webinar] por lo general son seminarios que se transmiten en vivo o pueden estar pregrabados. La implementación de los #[i webinar] permite educar, informar sobre un producto o servicios, atraer nuevos #[i leads].
           .col-lg-5
             figure
               img(src='@/assets/curso/tema2/img10.png', style="width: 350px").m-auto
@@ -224,7 +224,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-6.mb-4.mb-lg-0
             h4 Video #[i Copywriting]
-            p Es la estrategia de #[i marketing] de contenido, encargada de crear textos atractivos e influyentes y persuasivos para el buyer personas; dentro de la implementación de los #[i copywriting] se encuentran los blogs, foros, revistas, historias, banners.
+            p Es la estrategia de #[i marketing] de contenido, encargada de crear textos atractivos e influyentes y persuasivos para el #[i buyer] personas; dentro de la implementación de los #[i copywriting] se encuentran los #[i blogs], foros, revistas, historias, #[i banners].
             p Beneficios de la aplicación del #[i copywriting] al #[i marketing] de contenidos:
             ul.lista-ul
               li 

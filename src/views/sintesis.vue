@@ -12,7 +12,7 @@
         figure.fig-p9
           img(src='@/assets/curso/temas/img1.svg', style="width: 105px").m-auto
       .col.px-5.py-4.bg-c13
-        p.text-white.mb-0.ms-4 A continuación, se presenta un mapa conceptual, el cual se sintetiza los elementos que componen y son relevantes para la implementación del marketing de comunidades virtuales:
+        p.text-white.mb-0.ms-4 A continuación, se presenta un mapa conceptual, el cual se sintetiza los elementos que componen y son relevantes para la implementación del #[i marketing] de comunidades virtuales:
       figure.fig-p12
         img(src='@/assets/curso/temas/img4.svg', style="width: 40px")
       figure.fig-p13
