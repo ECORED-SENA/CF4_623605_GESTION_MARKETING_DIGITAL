@@ -24,7 +24,7 @@
       .col-12.bg-c1.p-3.p-md-5
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/eZyQmzbLYC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.text-center.mb-5 Por lo anterior, es importante tener presente tres elementos claves para generar interés en el público con la producción de contenido digital:
     .row.justify-content-center.mb-5
       .col-md-6.col-lg.mb-5.mb-lg-0

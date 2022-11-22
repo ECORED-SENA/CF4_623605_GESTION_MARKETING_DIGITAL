@@ -159,7 +159,7 @@
       .col-12.bg-c1.p-3.p-md-5
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/Ltis32BtI5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.mb-5 Dentro de las acciones a adelantar de #[i marketing] de contenido digital se encuentran:
     TabsB.color-acento-contenido
       .p-4.py-md-5(titulo="<em>Social Media</em>" :icono="require('@/assets/curso/tema2/img6.svg')").bg-c7
