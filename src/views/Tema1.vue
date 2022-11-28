@@ -49,7 +49,7 @@
             .text-white.p-4
               p.text-center #[b Ser capaz de «transmitir los mensajes de forma breve»]
               p.text-center Tres segundos es el tiempo que le cuesta a alguien determinar si el mensaje es interesante o de utilidad.
-    .row(data-aos="fade-up")
+    .row.fig-p16(data-aos="fade-up")
       figure.fig-p1
         img(src='@/assets/curso/tema1/img7.svg', style="width: 50px")
       .col-12.p-5.bg-c3
