@@ -2,16 +2,17 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span(style="color:#FFF") 3
       h1 #[i Marketing] digital y de contenidos
-    p.mb-4 Al implementar estrategias de #[i marketing], enfocadas en la virtualidad, el #[i buyer] personas y los leads; es indispensable, tener claro que es el #[i marketing] digital y el #[i marketing] de contenido; conceptos que suelen confundirse o creer que trata de lo mismo.
+    p.mb-4(data-aos="fade-up") Al implementar estrategias de #[i marketing], enfocadas en la virtualidad, el #[i buyer] personas y los leads; es indispensable, tener claro que es el #[i marketing] digital y el #[i marketing] de contenido; conceptos que suelen confundirse o creer que trata de lo mismo.
     .row.align-items-center.mb-5
-      .col-lg-4.mb-4.mb-lg-0
+      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema3/img1.png', style="width: 370px").m-auto
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         .row.mb-3
           .col-12.p-0.bg-c2
             .row.align-items-center
@@ -25,7 +26,7 @@
     .row.mb-5
       .col-12.p-5.bg-c8
         .row.align-items-center
-          .col-lg-8.mb-4.mb-lg-0
+          .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
             p En cuanto al #[i marketing] digital, #[span.txt-c1 adelanta todas sus estrategias a través de las plataformas digitales, mediante el empleo del internet, los computadores, Tablet o dispositivos móviles]; dentro de las cuales se emplean diferentes estrategias, como:
             ul.lista-ul
               li 
@@ -60,10 +61,10 @@
                 i.fas.fa-check-circle(style="color:#764CF0")
                 |
                 p.mb-0 #[i Podcasting]
-          .col-lg-4
+          .col-lg-4(data-aos="fade-left")
             figure
               img(src='@/assets/curso/tema3/img1.svg', style="width: 350px").m-auto
-    .row
+    .row.fig-p14(data-aos="fade-up")
       figure.fig-p5
         img(src='@/assets/curso/tema3/img2.svg', style="width: 80px")
       figure.fig-p1
@@ -76,17 +77,17 @@
       figure.fig-p7
         img(src='@/assets/curso/tema1/img8.svg', style="width: 50px")
     .row.align-items-center.mb-5
-      .col-lg-auto.mb-4.mb-lg-0
+      .col-lg-auto.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema3/img4.svg', style="width: 80px")
-      .col-lg
+      .col-lg(data-aos="fade-left")
         p Dentro del plan de #[i marketing] digital se debe tener en cuenta qué contenido publicar, los canales digitales a emplear, la frecuencia en que se va a publicar, el tiempo de permanencia del contenido; todo esto hace parte de la organización de los contenidos digitales. Por lo cual se puede definir la organización de contenido digital como la preparación de la estrategias de #[i marketing] de contenido.
         p.mb-0 Para organizar los contenidos digitales, se deben tener en cuenta los siguientes aspectos:
     .row.align-items-center.mb-5
-      .col-lg-5.mb-4.mb-lg-0
+      .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema3/img5.svg', style="width: 450px").m-auto
-      .col-lg-7
+      .col-lg-7(data-aos="fade-left")
         .row.mb-3
           .col-12.bg-c9
             .row
@@ -123,9 +124,9 @@
               .col.p-4
                 h4 Etiquetas
                 p.mb-0 Identificar las etiquetas que se encuentren en tendencia y estén acorde con la estrategia de contenido digital.
-    p.mb-5 Para elegir la temática de contenido digital se debe tener en cuenta el plan de #[i marketing] de la organización, el cual traza los objetivos que se pretenden alcanzar; por lo cual la creación del contenido digital debe responder o ir acorde a estos objetivos ya planteados.
+    p.mb-5(data-aos="fade-up") Para elegir la temática de contenido digital se debe tener en cuenta el plan de #[i marketing] de la organización, el cual traza los objetivos que se pretenden alcanzar; por lo cual la creación del contenido digital debe responder o ir acorde a estos objetivos ya planteados.
     .row.align-items-center
-      .col-lg-7.mb-4.mb-lg-0
+      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
         .row.mb-3
           .col-12.p-0.bg-c4
             .row.align-items-center
@@ -135,19 +136,19 @@
               .col.p-4
                 p.mb-0 Identificar las características del #[i buyer] persona y hacer uso de los indicadores o métricas con los que cuenta la organización, debido a que esto indicará el contenido apropiado, la frecuencia, y las tendencias actuales, y las estrategias que deberán de tomarse.
         p Otra de las estrategias para la elección de temática de contenido, es la interacción con la audiencia, la cual permite identificar o responder claramente qué tipo de contenido desea; esta estrategia se puede implementar realizando preguntas de forma directa mediante las redes sociales o implementando FAQ.
-      .col-lg-5
+      .col-lg-5(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema3/img2.png', style="width: 450px").m-auto
     Separador
     #t_3_1
     .titulo-segundo.color-acento-contenido
       h2 3.1 #[i Storytelling]
-    p.mb-4 En cuanto a la creación de contenido en el #[i marketing] digital se encuentra el #[span.txt-c1 #[i storytelling]], el cual es un término anglosajón, derivado de las palabras #[i story] que significa historia y #[i telling] que significa contar; por lo cual se puede decir que #[span.txt-c1 #[i storytelling]], traducido al idioma español es “contar una historia”; pero esta estrategia va más allá de contar una historia.
+    p.mb-4(data-aos="fade-down") En cuanto a la creación de contenido en el #[i marketing] digital se encuentra el #[span.txt-c1 #[i storytelling]], el cual es un término anglosajón, derivado de las palabras #[i story] que significa historia y #[i telling] que significa contar; por lo cual se puede decir que #[span.txt-c1 #[i storytelling]], traducido al idioma español es “contar una historia”; pero esta estrategia va más allá de contar una historia.
     .row.align-items-center.mb-5
-      .col-lg-5.mb-4.mb-lg-0
+      .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema3/img10.svg', style="width: 450px").m-auto
-      .col-lg-7
+      .col-lg-7(data-aos="fade-left")
         .row.mb-3
           .col-12.p-0.bg-c2
             .row.align-items-center
@@ -163,8 +164,8 @@
           p(numero="1" titulo="<em>Storytelling</em> de valor") En cuanto al #[i storytelling] de valor, transmite un relato de sucesos cotidianos ya sea de los consumidores o de las organizaciones.
           p(numero="1" titulo="<em>Storytelling</em> de consumo") En cuanto al #[i storytelling] de consumo, en el relato o historia, el producto o servicio son los elementos más relevantes, es decir son los protagonistas de la historia, sin embargo, esta historia no se debe reflejar cómo publicitaria, de lo contrario que el consumidor tenga una experiencia o despierte alguna emoción.
           p(numero="1" titulo="<em>Storytelling</em> de personal") En cuanto al #[i storytelling] personal, busca narrar o relatar una historia de la vida real o personal, que logren inspirar al público objetivo y permitan crean una conexión con este suceso o historia de vida.
-    p.mb-5 Para crear un #[i storytelling], se debe tener en cuenta las siguientes pautas:
-    .row.justify-content-center.mb-4
+    p.mb-5(data-aos="fade-down") Para crear un #[i storytelling], se debe tener en cuenta las siguientes pautas:
+    .row.justify-content-center.mb-4(data-aos="fade-right")
       .col-11.col-md-8.col-lg.mb-4.mb-lg-0
         .row.m-1.h-100
           .col-auto.p-2.bg-c10
@@ -173,7 +174,7 @@
           .col.p-3.bg-c11
             .row.h-100.align-items-center
               .col-12
-                p.mb-0 Identificar la audiencia o público objetivo.
+                p.mb-0 #[b Identificar la audiencia o público objetivo.]
       .col-11.col-md-8.col-lg.mb-4.mb-lg-0
         .row.m-1.h-100
           .col-auto.p-2.bg-c10
@@ -182,7 +183,7 @@
           .col.p-3.bg-c11
             .row.h-100.align-items-center
               .col-12
-                p.mb-0 Establecer el mensaje a transmitir.
+                p.mb-0 #[b Establecer el mensaje a transmitir.]
       .col-11.col-md-8.col-lg
         .row.m-1.h-100
           .col-auto.p-2.bg-c10
@@ -191,8 +192,8 @@
           .col.p-3.bg-c11
             .row.h-100.align-items-center
               .col-12
-                p.mb-0 Identificar el tipo de #[i storytelling].
-    .row.justify-content-center.mb-5
+                p.mb-0 #[b Identificar el tipo de #[i storytelling].]
+    .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-11.col-md-8.col-lg.mb-4.mb-lg-0
         .row.m-1.h-100
           .col-auto.p-2.bg-c10
@@ -201,7 +202,7 @@
           .col.p-3.bg-c11
             .row.h-100.align-items-center
               .col-12
-                p.mb-0 Crear y diseñar el #[i storytelling].
+                p.mb-0 #[b Crear y diseñar el #[i storytelling].]
       .col-11.col-md-8.col-lg.mb-4.mb-lg-0
         .row.m-1.h-100
           .col-auto.p-2.bg-c10
@@ -210,7 +211,7 @@
           .col.p-3.bg-c11
             .row.h-100.align-items-center
               .col-12
-                p.mb-0 Identificar los canales digitales.
+                p.mb-0 #[b Identificar los canales digitales.]
       .col-11.col-md-8.col-lg
         .row.m-1.h-100
           .col-auto.p-2.bg-c10
@@ -219,10 +220,10 @@
           .col.p-3.bg-c11
             .row.h-100.align-items-center
               .col-12
-                p.mb-0 Divulgar el #[i storytelling].
-    p.mb-5 En cuanto a la creación del #[i storytelling], se deben tener en cuenta los elementos claves, los cuales permitirán que la historia a contar o narrar sea de éxito, por lo cual el #[i storytelling] debe contener los siguientes elementos:
+                p.mb-0 #[b Divulgar el #[i storytelling].]
+    p.mb-5(data-aos="fade-down") En cuanto a la creación del #[i storytelling], se deben tener en cuenta los elementos claves, los cuales permitirán que la historia a contar o narrar sea de éxito, por lo cual el #[i storytelling] debe contener los siguientes elementos:
     .row.align-items-center.mb-5
-      .col-lg-7.mb-4.mb-lg-0
+      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul2")
           .row(titulo="El mensaje")
             .col-12
@@ -236,17 +237,17 @@
           .row(titulo="El conflicto")
             .col-12
               p Es lo que motiva a la audiencia y en muchos casos se identifica con el público objetivo.
-      .col-lg-5
+      .col-lg-5(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema3/img17.svg', style="width: 450px").m-auto
-    .row.align-items-center
+    .row.align-items-center(data-aos="fade-down")
       .col-lg-auto.mb-4.mb-lg-0
         figure
           img(src='@/assets/curso/tema3/img18.svg', style="width: 80px").m-auto
       .col-lg
         p Estos elementos #[span.txt-c1 deben de estar implementados de acuerdo con el tipo de #[i storytelling], que se ha elegido, para crear el contenido]. 
         p.mb-0 En cuanto a la creación del #[i storytelling] se debe de tener en cuenta su estructura:
-    ImagenInfografica.color-acento-botones.mb-5
+    ImagenInfografica.color-acento-botones.mb-5(data-aos="fade-left")
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/tema3/img19.svg')
@@ -265,7 +266,7 @@
       .tarjeta.color-primario.p-3(x="82%" y="74.5%" numero="+")
         p #[b 5. Mensaje o reflexión]
         p.mb-0 Se emplea para dejar en mente lo positivo en el consumidor.
-    .row
+    .row.fig-p15(data-aos="fade-right")
       figure.fig-p5
         img(src='@/assets/curso/tema3/img2.svg', style="width: 80px")
       figure.fig-p1
@@ -281,9 +282,9 @@
     #t_3_2
     .titulo-segundo.color-acento-contenido
       h2 3.2 SEO y SEM
-    p.mb-4 El #[i Search Engine Optimization] (SEO) o en el idioma español optimización para motores de búsqueda y #[i Search Engine Marketing] (SEM) o en el idioma español #[i marketing] en motores de búsqueda; son estrategias de #[i marketing] digital, las cuales el canal o medio digital son los buscadores.
+    p.mb-4(data-aos="fade-up") El #[i Search Engine Optimization] (SEO) o en el idioma español optimización para motores de búsqueda y #[i Search Engine Marketing] (SEM) o en el idioma español #[i marketing] en motores de búsqueda; son estrategias de #[i marketing] digital, las cuales el canal o medio digital son los buscadores.
     .row.align-items-center.mb-5
-      .col-lg-8.mb-4.mb-lg-0
+      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         .row.mb-3
           .col-12.p-4.bg-c12
             p.mb-0 En cuanto el #[i Search Engine Optimization] (SEO), hace parte de las estrategias y técnicas que emplean las organizaciones, para mejorar la visibilidad de las páginas #[i web], en los motores de búsqueda como Google, Yahoo, Bing, Ask, entre otros.
@@ -321,11 +322,11 @@
                     i.fas.fa-check-circle(style="color:#764CF0")
                     |
                     p.mb-0 Mejora el rendimiento de la página #[i web].
-      .col-lg-4
+      .col-lg-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema3/img3.png', style="width: 450px").m-auto
-    p.mb-5 De acuerdo con estudios psicológicos existen diferentes tendencias de búsqueda, por lo cual se han identificado tres tipos de búsqueda, por navegación, por información y por transacción:
-    .tarjeta.tarjeta--azul1.p-4.p-md-5.mb-5
+    p.mb-5(data-aos="fade-down") De acuerdo con estudios psicológicos existen diferentes tendencias de búsqueda, por lo cual se han identificado tres tipos de búsqueda, por navegación, por información y por transacción:
+    .tarjeta.tarjeta--azul1.p-4.p-md-5.mb-5(data-aos="fade-right")
       SlyderA(tipo="b")
         .row.m-1.align-items-center
           .col-lg-5.mb-4.mb-lg-0
@@ -351,8 +352,8 @@
           .col-lg-7
             figure
               img(src='@/assets/curso/tema3/img6.png', style="width: 650px").m-auto
-    p.mb-5 Para crear una estrategia de #[i Search Engine Optimization] (SEO), se deben tener en cuenta los siguientes aspectos:
-    .row.justify-content-center.mb-5
+    p.mb-5(data-aos="fade-up") Para crear una estrategia de #[i Search Engine Optimization] (SEO), se deben tener en cuenta los siguientes aspectos:
+    .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/tema3/img21.svg' alt='AvatarTop')
@@ -378,10 +379,10 @@
             .text-white.p-4
               p.text-center Indagar sobre palabras claves que emplean los motores de búsqueda y los consumidores, por lo cual se pueden emplear #[i software] como #[i SEMRush], #[i Ahrefs].
     .row.align-items-center.mb-5
-      .col-lg-4.mb-4.mb-lg-0
+      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema3/img7.png', style="width: 400px").m-auto
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         .row.mb-3
           .col-12.p-0.bg-c4
             .row.align-items-center
@@ -397,13 +398,13 @@
           .col
             p.mb-0 Dado que es una estrategia de #[i marketing] digital pagada a diferencia del SEO, permite segmentar y llegar más rápido al #[i buyer] persona, aumenta la visibilidad de la marca, se requiere de pequeñas inversiones.
         p.mb-0 Al buscar ventas de autos en el motor de búsqueda de Google, se encuentran páginas que emplean una estrategia de SEM, la cual al inicio de la búsqueda aparece con la palabra “Anuncio”.
-    .titulo-sexto.color-acento-contenido.mb-5
+    .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-down")
       p.mb-0 #[b Figura 2]. #[i Estrategia de SEM]
-    .row.justify-content-center.mb-5
-      .col-lg-8
+    .row.justify-content-center.mb-5(data-aos="fade-right")
+      .col-lg-8.mb-5
         figure
           img(src='@/assets/curso/tema3/img8.png')
-    .row
+    .row.fig-p15(data-aos="fade-up")
       figure.fig-p5
         img(src='@/assets/curso/tema3/img2.svg', style="width: 80px")
       figure.fig-p1
@@ -418,9 +419,9 @@
     #t_3_3
     .titulo-segundo.color-acento-contenido
       h2 3.3 #[i Email marketing]
-    p.mb-4 En cuanto al #[i email marketing] o #[i emailing], #[span.txt-c1 es una estrategia de #[i marketing] digital, la cual basa su estrategia de contenido empleando como medio digital el correo electrónico, el cual su fin es la publicidad o promoción de productos, servicios o marcas].
+    p.mb-4(data-aos="fade-right") En cuanto al #[i email marketing] o #[i emailing], #[span.txt-c1 es una estrategia de #[i marketing] digital, la cual basa su estrategia de contenido empleando como medio digital el correo electrónico, el cual su fin es la publicidad o promoción de productos, servicios o marcas].
     .row.align-items-center.mb-4
-      .col-lg-8.mb-4.mb-lg-0
+      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         .row.mb-3
           .col-12.p-4.bg-c6
             .row.align-items-center
@@ -450,14 +451,14 @@
         .row.mb-3
           .col-12.p-4.bg-c12
             p.mb-0 Para implementar el #[i email] de #[i marketing] como estrategia al interior de la organizaciones se debe estructurar un plan operativo de #[i email] de #[i marketing] y construir una base de datos de correos electrónicos.
-      .col-lg-4
+      .col-lg-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema3/img9.png', style="width: 400px").m-auto
     .row.align-items-center.mb-5
-      .col-lg-4.mb-4.mb-lg-0.order-2.order-lg-1
+      .col-lg-4.mb-4.mb-lg-0.order-2.order-lg-1(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema3/img10.png', style="width: 400px").m-auto
-      .col-lg-8.order-1.order-lg-2
+      .col-lg-8.order-1.order-lg-2(data-aos="fade-left")
         p En cuanto a la estructuración del plan operativo de #[i email] de #[i marketing] que ayude a cumplir el objetivo de #[i marketing] digital de las organizaciones, se debe tener en cuenta:
         ul.lista-ul
           li 
@@ -484,13 +485,13 @@
             i.fas.fa-check-circle(style="color:#764CF0")
             |
             p.mb-0 Establecer indicadores de gestión métricas para la campaña publicitaria de #[i email] de #[i marketing].
-    .row.mb-5
+    .row.mb-5(data-aos="fade-down")
       .col-12.p-5.bg-c13
         p.mb-0.text-white En cuanto a la construcción de la base de datos del #[i buyer] persona, para la implementación de la campaña publicitaria a través de #[i email] de #[i marketing], se centra en el #[i Lead magnet].
     .row.align-items-center
-      .col-lg-7.mb-4.mb-lg-0
-        .row.mb-3
-          .col-12.p-4
+      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
+        .row.mb-4
+          .col-12.bg-c2.p-4
             p.mb-0 El #[i Lead magnet], es la creación de contenido digital que permita que los leads, lo identifiquen como atractivo y desean suscribirse o dejar sus datos personales, esto puede ser ofertas, muestras gratis, #[i webinar] o cursos, #[i ebook], entre otras estrategias.
         .dual-txt-deco
           p(style="position: relative; z-index: 2") Otras de los canales estratégicos del #[i marketing] son las líneas de comunicación, dentro de las cuales se encuentran las líneas telefónicas, redes informática, correos electrónicos e intranet. Por lo cual las líneas de comunicación es un medio por el cual a través de la conectividad se intercambia información.
@@ -500,7 +501,7 @@
             br
             br
             | En cuanto a la línea telefónica, permite realizar lo que se denomina #[i marketing] telefónico, la cual consiste en que el consumidor ya ha suministrado los datos a la organización y esta se puede poner en contacto, por medio telefónico, para ofrecer sus productos o servicios.
-      .col-lg-5
+      .col-lg-5(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema3/img27.svg', style="width: 350px").m-auto
     Separador
@@ -508,10 +509,10 @@
     .titulo-segundo.color-acento-contenido
       h2 3.4 #[i Social media marketing]
     .row.align-items-center.mb-5
-      .col-lg-4.mb-4.mb-lg-0
+      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema3/img11.png', style="width: 350px").m-auto
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         p En cuanto al social media o #[i marketing] de redes sociales, #[span.txt-c1 es una estrategia del #[i marketing] digital, en la cual las organizaciones crean contenido digital dentro de sus campañas publicitarias, para ser difundido en las diferentes redes sociales].
         .row
           .col-12.p-0.bg-c4
@@ -521,8 +522,8 @@
                   img(src='@/assets/curso/tema1/img9.svg', style="width: 70px")
               .col.p-3
                 p.mb-0 El fin de crear estrategia de campañas publicitarias a través de las redes sociales es la de generar conexión e interacción con el #[i buyer] persona (#[i Engagement]) e intercambio (#[i Social Sharing]), lo que permite aumentar el tráfico, la visibilidad de la marca, incremento de las ventas.
-    p.mb-5 Dentro de las principales redes sociales para implementar el #[i social media marketing] se encuentran:
-    .row.mb-5
+    p.mb-5(data-aos="fade-down") Dentro de las principales redes sociales para implementar el #[i social media marketing] se encuentran:
+    .row.mb-5(data-aos="fade-left")
       .col-sm-6.col-xl-4.mb-4
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
@@ -571,8 +572,8 @@
             .tarjeta-flip__contenido.p-4.p-xl-5
               h4.text-center #[i Youtube]
               p.text-center Es la red social predilecta entre el público joven, se caracteriza por su contenido audiovisual. Se recomienda realizar publicaciones e 4:00 a 9:00 de la mañana y de 13:00 a 18:00 de la tarde.
-    p.mb-5 En cuanto a la creación de un plan de social media #[i marketing], se deben seguir las siguientes fases:
-    .row.justify-content-center
+    p.mb-5(data-aos="fade-up") En cuanto a la creación de un plan de social media #[i marketing], se deben seguir las siguientes fases:
+    .row.justify-content-center(data-aos="fade-right")
       .col-12.col-md-7.col-lg-4
         .row
           .col-12.p-0
@@ -601,12 +602,12 @@
     #t_3_5
     .titulo-segundo.color-acento-contenido
       h2 3.5 Comunicación digital
-    p.mb-4 Con la nueva era digital, los cambios y transformaciones de los medios de información y la comunicación; se ha pasado de hablar de los medios de comunicación tradicional como la televisión, la radio, la prensa; a hablar de los medios de comunicación digital, por lo cual se abordará el concepto de la comunicación digital.
+    p.mb-4(data-aos="fade-up") Con la nueva era digital, los cambios y transformaciones de los medios de información y la comunicación; se ha pasado de hablar de los medios de comunicación tradicional como la televisión, la radio, la prensa; a hablar de los medios de comunicación digital, por lo cual se abordará el concepto de la comunicación digital.
     .row.align-items-center.mb-4
-      .col-lg-4.mb-4.mb-lg-0
+      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema3/img21.png', style="width: 350px").m-auto
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         .row.align-items-center.mb-3
           .col-auto
             figure
@@ -617,19 +618,19 @@
         .row
           .col-12.p-4.bg-c13
             p.text-white.mb-0 Con la comunicación digital, se acortan las distancias geográficas, se interactúa de una forma eficiente y eficaz, son medios económicos y de fácil acceso; tanto pata los consumidores, como para las organizaciones.
-    p Dentro de los diferentes medios de comunicación digital se encuentran, el #[i email], las redes sociales, los #[i podcast], las páginas #[i web], los #[i chat], entre otros medios o plataformas digitales.
+    p(data-aos="fade-up") Dentro de los diferentes medios de comunicación digital se encuentran, el #[i email], las redes sociales, los #[i podcast], las páginas #[i web], los #[i chat], entre otros medios o plataformas digitales.
     Separador
     #t_3_6
     .titulo-segundo.color-acento-contenido
       h2 3.6 Plan de comunicación digital
     .row.align-items-center.mb-5
-      .col-lg-auto.mb-4.mb-lg-0
+      .col-lg-auto.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema3/img30.svg', style="width: 90px").m-auto
-      .col-lg
+      .col-lg(data-aos="fade-left")
         p La organizaciones dentro de sus estrategias deben crear el plan de comunicación digital, debido al entorno en el que encuentra y los cambios que ha traído el internet y la tecnología; por lo cual el plan de comunicación digital #[span.txt-c1 debe recopilar los elementos básicos de la comunicación los cuales son el emisor, el receptor, el mensaje y se suma un nuevo elemento, el cual es el canal digital que emplear].
         p.mb-0 La creación de un plan de comunicación permite a las organizaciones generar recordación y valor de marca, disminuir costos en la comunicación y optimizar resultados.
-    .row
+    .row(data-aos="fade-down")
       .col-12.p-5.bg-c2
         .row.align-items-center
           .col-lg-7.mb-4.mb-lg-0
@@ -666,14 +667,14 @@
     #t_3_7
     .titulo-segundo.color-acento-contenido
       h2 3.7 Plataformas para la comunicación digital
-    .row.align-items-center.mb-5
+    .row.align-items-center.mb-5(data-aos="fade-down")
       .col-lg-auto.mb-4.mb-lg-0
         figure
           img(src='@/assets/curso/tema3/img32.svg', style="width: 90px").m-auto
       .col-lg
         p Dentro de las plataformas que ofrece o brinda el mundo digital se encuentran las plataformas de uso individual, las plataformas de uso público y plataformas de equipos de trabajo.
         p.mb-0 #[span.txt-c1 Tengamos en cuenta lo siguiente:]
-    .tarjeta.tarjeta--azul1.p-4.p-md-5
+    .tarjeta.tarjeta--azul1.p-4.p-md-5(data-aos="fade-right")
       SlyderA(tipo="b")
         .row.m-1
           .col-lg-6.mb-4.mb-lg-0

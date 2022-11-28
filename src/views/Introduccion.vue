@@ -3,18 +3,18 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
   
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span(style="color:#FFF")
           i.fas.fa-info
       h1 Introducción
-    .row.align-items-center.mb-5
+    .row.align-items-center.mb-5(data-aos="fade-right")
       .col-md-auto.mb-4.mb-md-0
         figure
           img(src='@/assets/curso/intro/img1.svg' style="width: 170px").m-auto
       .col-md
         p.mb-0 A través de este componente se le brindará al aprendiz las herramientas necesarias para abordar la planeación y diseño de planes de comunicación digital, lo invitamos a ver el siguiente video:
-    .row
+    .row(data-aos="fade-left")
       .col-12.bg-c1.p-3.p-md-5
         figure
           .video

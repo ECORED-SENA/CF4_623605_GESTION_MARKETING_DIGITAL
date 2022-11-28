@@ -2,16 +2,17 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span(style="color:#FFF") 2
       h1 Canales digitales para el #[i marketing]
-    p.mb-4 Las estrategias de #[i marketing] de contenido requieren de plataformas que permitan su divulgación, por ello a través del internet o diferentes plataformas, se crean los canales digitales que permiten la divulgación de las estrategias que permitan atraer #[i buyer] personas o #[i leads], con el fin de crear consumo ya sea de productos, servicios o de la marca.
+    p.mb-4(data-aos="fade-up") Las estrategias de #[i marketing] de contenido requieren de plataformas que permitan su divulgación, por ello a través del internet o diferentes plataformas, se crean los canales digitales que permiten la divulgación de las estrategias que permitan atraer #[i buyer] personas o #[i leads], con el fin de crear consumo ya sea de productos, servicios o de la marca.
     .row.align-items-center.mb-4
-      .col-lg-4.mb-4.mb-lg-0
+      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema2/img1.png', style="width: 370px").m-auto
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         .row.mb-3
           .col-12.p-0.bg-c2
             .row.align-items-center
@@ -22,7 +23,7 @@
                 p.mb-0 Ninguna campaña de #[i marketing] de contenidos está completa si no cuenta con una sólida estrategia de distribución de los diferentes materiales y es que de este aspecto depende que el contenido llegue a la persona adecuada a través del canal idóneo y en el momento oportuno.
         p Como ves, ¡No es poca cosa! para comenzar el diseño de la estrategia de distribución, #[span.txt-c1 se debe pensar en los diferentes canales que se pueden utilizar para difundir y entregar los contenidos de forma eficaz y eficiente], como las redes sociales y el #[i email].
         p En cuanto a los canales digitales, #[span.txt-c1 es importante hablar del #[i inbound marketing], la cual es una estrategia de #[i marketing] diseñada para atraer consumidores a través de la creación de contenido de calidad], en cual emplea como medio de divulgación los canales digital, por lo cual se debe elegir el más idóneo de acuerdo con la estrategia a crear y el público objetivo.
-    .row.align-items-center
+    .row.align-items-center(data-aos="fade-down")
       .col-md-auto.mb-4.mb-md-0
         figure
           img(src='@/assets/curso/tema2/img1.svg', style="width: 90px").m-auto
@@ -32,12 +33,12 @@
     #t_2_1
     .titulo-segundo.color-acento-contenido
       h2 2.1 Tipos de canales digitales
-    p El #[i inbound marketing], emplea una metodología para aplicar las estrategias en el #[i marketing], la cual es atraer, interactuar, y deleitar, por lo cual hace uso de los canales digitales para llevar a cabo sus estrategias.
+    p(data-aos="fade-down") El #[i inbound marketing], emplea una metodología para aplicar las estrategias en el #[i marketing], la cual es atraer, interactuar, y deleitar, por lo cual hace uso de los canales digitales para llevar a cabo sus estrategias.
     .row.align-items-center.mb-4
-      .col-lg-4.mb-4.mb-lg-0
+      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema2/img2.png', style="width: 370px").m-auto
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         .row.mb-3
           .col-12.p-0.bg-c4
             .row.align-items-center
@@ -47,14 +48,14 @@
               .col.p-4
                 p.mb-0 Para entrar en contexto en cuanto a los tipos de canales digitales, es de resaltar que estos gozan de una gran popularidad en la actualidad, por lo cual es un grave error dejarlas fuera de cualquier estrategia de distribución de contenidos.
         p Y es que, así como Uber es la mayor empresa de transporte del mundo sin contar con una flota de autos, Facebook, Twitter, YouTube e Instagram forman parte del selecto grupo de líderes mundiales en contenidos digitales sin siquiera encargarse de producirlos; simplemente son plataformas que nos conectan a cientos de millones en todo el mundo, en las que también se encuentra el #[i buyer] persona de cualquier marca.
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-4(data-aos="fade-down")
       .col-md-auto.mb-4.mb-md-0
         figure
           img(src='@/assets/curso/tema2/img2.svg', style="width: 90px").m-auto
       .col-md
         p.mb-0 ¡Ya sabes! aprovecha la inmediatez de Twitter, el atractivo formato de consumo de YouTube, la flexibilidad de Facebook y la calidad visual de Instagram para compartir los contenidos de estrategia de #[i inbound marketing]. Eso sí, aunque todas estas redes son muy útiles y valiosas, es importante identificar cuál de estas es la predilecta o favorita del público objetivo, para que así sea explotada al máximo.
-    p.mb-5 A continuación, se dan a conocer los diferentes tipos de canales digitales:
-    .tarjeta.tarjeta--azul1.p-4.p-md-5
+    p.mb-5(data-aos="fade-right") A continuación, se dan a conocer los diferentes tipos de canales digitales:
+    .tarjeta.tarjeta--azul1.p-4.p-md-5(data-aos="fade-left")
       SlyderA(tipo="b")
         .row.m-1.align-items-center
           .col-lg-7.mb-4.mb-lg-0
@@ -126,12 +127,12 @@
     #t_2_2
     .titulo-segundo.color-acento-contenido
       h2 2.2 Acciones de #[i marketing] de contenidos digitales
-    p.mb-4 El #[i marketing] de contenido busca atraer y fidelizar al #[i buyer] persona o #[i leads], a través de la creación de contenido digital, en el cual implementan todas sus estrategias a través de diferentes canales digitales, en los cuales accede el público objetivo.
+    p.mb-4(data-aos="fade-down") El #[i marketing] de contenido busca atraer y fidelizar al #[i buyer] persona o #[i leads], a través de la creación de contenido digital, en el cual implementan todas sus estrategias a través de diferentes canales digitales, en los cuales accede el público objetivo.
     .row.align-items-center.mb-5
-      .col-lg-4.mb-4.mb-lg-0
+      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema2/img8.png', style="width: 400px").m-auto
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         .row.mb-3
           .col-12.p-0.bg-c4
             .row.align-items-center
@@ -141,27 +142,27 @@
               .col.p-4
                 p.mb-0 Las estrategias de #[i marketing] de contenido permiten a las organizaciones aumentar las ventas de productos o servicios, crear conexión con el #[i buyer] persona o #[i leads], posicionar la marca, crear comunicación de valor de la marca y ofrecer solución a las necesidades.
         p Como se ha mencionado la estrategia de #[i inbound marketing], es principalmente empleada en el #[i marketing] digital y en el #[i marketing] de contenido; el #[i inbound] de #[i marketing] se centra en atraer el interés del #[i buyer] persona a través de la experiencia; por lo cual se basa en los siguientes pilares:
-    .titulo-sexto.color-acento-contenido.mb-5
+    .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-up")
       p.mb-0 #[b Figura 1]. #[i Pilares Inbound Marketing]
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-lg-8
         figure
           img(src='@/assets/curso/tema2/img4.svg')
     .row.align-items-center.mb-5
-      .col-lg-8.mb-4.mb-lg-0
+      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         p Por lo cual para implementar acciones de #[i marketing] de contenido se debe seguir la estrategia de #[i inbound marketing], el cual atrae el público objetivo, mediante la divulgación de contenido digital, que respeta los espacios y experiencias de cada consumidor; #[span.txt-c1 esta estrategia permite aumentar el tráfico, generar reconocimiento de marca, construir conexión con la audiencia, generar ventas, genera #[i leads]].
         p La estrategia de #[i inbound marketing], es principalmente empleada en el #[i marketing] digital y en el #[i marketing] de contenido; #[span.txt-c1 el #[i inbound] de #[i marketing] se centra en atraer el interés del #[i buyer] persona a través de la experiencia].
         p Veamos más sobre el mismo, a continuación:
-      .col-lg-4
+      .col-lg-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema2/img5.svg', style="width: 400px").m-auto
-    .row.mb-5
+    .row.mb-5(data-aos="fade-down")
       .col-12.bg-c1.p-3.p-md-5
         figure
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/Ltis32BtI5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    p.mb-5 Dentro de las acciones a adelantar de #[i marketing] de contenido digital se encuentran:
-    TabsB.color-acento-contenido
+    p.mb-5(data-aos="fade-right") Dentro de las acciones a adelantar de #[i marketing] de contenido digital se encuentran:
+    TabsB.color-acento-contenido(data-aos="fade-left")
       .p-4.py-md-5(titulo="<em>Social Media</em>" :icono="require('@/assets/curso/tema2/img6.svg')").bg-c7
         .row.justify-content-center.align-items-center
           .col-lg-6.mb-4.mb-lg-0
@@ -255,11 +256,11 @@
     #t_2_3
     .titulo-segundo.color-acento-contenido
       h2 2.3 Tendencias en contenidos digitales
-    p.mb-5 Las tecnologías de la comunicación y la información han evolucionado la forma en la cual se realizan las estrategias de #[i marketing], el cual ha pasado del #[i marketing] tradicional, al #[i marketing] digital; el cual centra todas sus estrategias en divulgar contenido en plataformas digitales.
+    p.mb-5(data-aos="fade-up") Las tecnologías de la comunicación y la información han evolucionado la forma en la cual se realizan las estrategias de #[i marketing], el cual ha pasado del #[i marketing] tradicional, al #[i marketing] digital; el cual centra todas sus estrategias en divulgar contenido en plataformas digitales.
     .row
       .col-12.p-5.bg-c8
         .row.align-items-center
-          .col-lg-8.mb-4.mb-lg-0
+          .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
             p Estas nuevas estrategias de marketing han obligado a las organizaciones, a transformarse y a estar presente en este mundo virtual, de lo contrario serán relegadas y estarán destinadas a no crecer o no mantenerse dentro de la industria o el mercado.
             p En cuanto a las nuevas tendencias en cuanto a contenido digital, se encuentran:
             ul.lista-ul
@@ -295,7 +296,7 @@
                 i.fas.fa-check-circle(style="color:#764CF0")
                 |
                 p.mb-0 #[i Mobile Marketing].
-          .col-lg-4
+          .col-lg-4(data-aos="fade-left")
             figure
               img(src='@/assets/curso/tema2/img10.svg', style="width: 350px").m-auto
 
