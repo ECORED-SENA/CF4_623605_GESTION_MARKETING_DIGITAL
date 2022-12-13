@@ -161,9 +161,9 @@
         LineaTiempoD.color-acento-contenido
           p(numero="1" titulo="<em>Storytelling</em> de ficción") En cuanto a los #[i storytelling] de ficción, narran una historia de ficción, donde todos los hechos, acontecimientos, personajes, son irreales; pero la historia que se narra conecta o se identifica con el buyer personas.
           p(numero="2" titulo="<em>Storytelling</em> de histórico") En cuanto a los #[i storytelling] históricos, narra hechos reales del pasado, estos deben de transmitir un mensaje que conecta con la audiencia, debido a que transmite un episodio o época que marcó sus vidas, como también puede relatar la evolución de una marca o producto.
-          p(numero="1" titulo="<em>Storytelling</em> de valor") En cuanto al #[i storytelling] de valor, transmite un relato de sucesos cotidianos ya sea de los consumidores o de las organizaciones.
-          p(numero="1" titulo="<em>Storytelling</em> de consumo") En cuanto al #[i storytelling] de consumo, en el relato o historia, el producto o servicio son los elementos más relevantes, es decir son los protagonistas de la historia, sin embargo, esta historia no se debe reflejar cómo publicitaria, de lo contrario que el consumidor tenga una experiencia o despierte alguna emoción.
-          p(numero="1" titulo="<em>Storytelling</em> de personal") En cuanto al #[i storytelling] personal, busca narrar o relatar una historia de la vida real o personal, que logren inspirar al público objetivo y permitan crean una conexión con este suceso o historia de vida.
+          p(numero="3" titulo="<em>Storytelling</em> de valor") En cuanto al #[i storytelling] de valor, transmite un relato de sucesos cotidianos ya sea de los consumidores o de las organizaciones.
+          p(numero="4" titulo="<em>Storytelling</em> de consumo") En cuanto al #[i storytelling] de consumo, en el relato o historia, el producto o servicio son los elementos más relevantes, es decir son los protagonistas de la historia, sin embargo, esta historia no se debe reflejar cómo publicitaria, de lo contrario que el consumidor tenga una experiencia o despierte alguna emoción.
+          p(numero="5" titulo="<em>Storytelling</em> de personal") En cuanto al #[i storytelling] personal, busca narrar o relatar una historia de la vida real o personal, que logren inspirar al público objetivo y permitan crean una conexión con este suceso o historia de vida.
     p.mb-5(data-aos="fade-down") Para crear un #[i storytelling], se debe tener en cuenta las siguientes pautas:
     .row.justify-content-center.mb-4(data-aos="fade-right")
       .col-11.col-md-8.col-lg.mb-4.mb-lg-0
@@ -305,7 +305,7 @@
                   li 
                     i.fas.fa-check-circle(style="color:#764CF0")
                     |
-                    p.mb-0 Aumenta el trafico.
+                    p.mb-0 Aumenta el tráfico.
                   li 
                     i.fas.fa-check-circle(style="color:#764CF0")
                     |
@@ -494,7 +494,7 @@
           .col-12.bg-c2.p-4
             p.mb-0 El #[i Lead magnet], es la creación de contenido digital que permita que los leads, lo identifiquen como atractivo y desean suscribirse o dejar sus datos personales, esto puede ser ofertas, muestras gratis, #[i webinar] o cursos, #[i ebook], entre otras estrategias.
         .dual-txt-deco
-          p(style="position: relative; z-index: 2") Otras de los canales estratégicos del #[i marketing] son las líneas de comunicación, dentro de las cuales se encuentran las líneas telefónicas, redes informática, correos electrónicos e intranet. Por lo cual las líneas de comunicación es un medio por el cual a través de la conectividad se intercambia información.
+          p(style="position: relative; z-index: 2") Otros de los canales estratégicos del #[i marketing] son las líneas de comunicación, dentro de las cuales se encuentran las líneas telefónicas, redes informática, correos electrónicos e intranet. Por lo cual las líneas de comunicación es un medio por el cual a través de la conectividad se intercambia información.
             br
             br
             | Dentro de las líneas de comunicación se clasifican en punto a punto, los cuales cuentan con una conectividad fija, y la multipunto, la cual se encuentra conectada mediante una red.
@@ -563,7 +563,7 @@
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema3/img16.png')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5
               h4.text-center #[i TikTok]
-              p.text-center Es la red social predilecta entre el público joven, se caracteriza por su contenido audiovisual. Se recomienda realizar publicaciones e 4:00 a 9:00 de la mañana y de 13:00 a 18:00 de la tarde.
+              p.text-center Es la red social predilecta entre el público joven, se caracteriza por su contenido audiovisual. Se recomienda realizar publicaciones de 4:00 a 9:00 de la mañana y de 13:00 a 18:00 de la tarde.
       .col-sm-6.col-xl-4.mb-4
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
@@ -571,7 +571,7 @@
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema3/img17.png')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5
               h4.text-center #[i Youtube]
-              p.text-center Es la red social predilecta entre el público joven, se caracteriza por su contenido audiovisual. Se recomienda realizar publicaciones e 4:00 a 9:00 de la mañana y de 13:00 a 18:00 de la tarde.
+              p.text-center Es la red social predilecta entre el público joven, se caracteriza por su contenido audiovisual. Se recomienda realizar publicaciones de 4:00 a 9:00 de la mañana y de 13:00 a 18:00 de la tarde.
     p.mb-5(data-aos="fade-up") En cuanto a la creación de un plan de social media #[i marketing], se deben seguir las siguientes fases:
     .row.justify-content-center(data-aos="fade-right")
       .col-12.col-md-7.col-lg-4
@@ -732,15 +732,15 @@
                   li.mb-0
                     i.fas.fa-angle-right(style="color:#764CF0")
                     |
-                    p.mb-0 #[i Telegram]
+                    p.mb-0 #[i Telegram].
                   li.mb-0
                     i.fas.fa-angle-right(style="color:#764CF0")
                     |
-                    p.mb-0 #[i Google Meet]
+                    p.mb-0 #[i Google Meet].
                   li.mb-0
                     i.fas.fa-angle-right(style="color:#764CF0")
                     |
-                    p.mb-0 #[i Zoom]
+                    p.mb-0 #[i Zoom].
           .col-lg-6
             figure
               img(src='@/assets/curso/tema3/img23.png', style="width: 550px").m-auto
@@ -800,15 +800,15 @@
                   li.mb-0
                     i.fas.fa-angle-right(style="color:#764CF0")
                     |
-                    p.mb-0 #[i Teams]
+                    p.mb-0 #[i Teams].
                   li.mb-0
                     i.fas.fa-angle-right(style="color:#764CF0")
                     |
-                    p.mb-0 #[i Trello]
+                    p.mb-0 #[i Trello].
                   li.mb-0
                     i.fas.fa-angle-right(style="color:#764CF0")
                     |
-                    p.mb-0 #[i Google Drive]
+                    p.mb-0 #[i Google Drive].
           .col-lg-6
             figure
               img(src='@/assets/curso/tema3/img25.png', style="width: 550px").m-auto

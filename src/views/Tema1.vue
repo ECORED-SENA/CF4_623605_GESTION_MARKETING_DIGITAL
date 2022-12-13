@@ -117,7 +117,7 @@
           .col-lg-4
             figure
               img(src='@/assets/curso/tema1/img6.png', style="width: 350px").m-auto
-    p.mb-5(data-aos="fade-right") En cuanto a los contenidos de texto se encuentran los #[i blog], #[i e-book], guías, historias, noticias, bibliográficas; se debe ser muy creativo e ingenioso al momento de redactar textos, guardar una correcta ortografía y gramática; los textos deben ser dinámicos, con la intención de entretener al consumidor.
+    p.mb-5(data-aos="fade-right") En cuanto a los contenidos de texto se encuentran los #[i blogs], #[i e-book], guías, historias, noticias, bibliográficas; se debe ser muy creativo e ingenioso al momento de redactar textos, guardar una correcta ortografía y gramática; los textos deben ser dinámicos, con la intención de entretener al consumidor.
     .row.align-items-center
       .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         p En cuanto al contenido digital de imágenes, #[span.txt-c1 son de los elementos empleados o esenciales en la creación de contenido digital], también suelen acompañar los textos; dentro de este contenido se encuentran imágenes, fotografías, infografías.
@@ -157,7 +157,7 @@
           .row.justify-content-center(titulo="Los <em>Blog</em>")
             .col-lg-7.mb-4.mb-lg-0
               p Los cuales son una página #[i web] que combina texto, imágenes e incluso video para comunicarse con tu #[i buyer] persona dentro de tu sitio #[i web]. 
-              p Los temas para tratar en los #[i Blog] no son netamente publicitarios; lo que aquí se publica debe ser de interés para el #[i buyer] personas, que lo informe o brinde una solución, la cual debe estar relacionada con el producto, servicio o marca.
+              p Los temas para tratar en los #[i Blogs] no son netamente publicitarios; lo que aquí se publica debe ser de interés para el #[i buyer] personas, que lo informe o brinde una solución, la cual debe estar relacionada con el producto, servicio o marca.
               p Con la creación de un #[i blog] se debe implementar estrategias de #[i search engine optimization] (SEO), que permitan posicionar la página #[i web] en los resultados de Google; lo que permitirá, aumentar los contactos.
             .col-lg-4
               figure
@@ -179,14 +179,14 @@
                 img(src='@/assets/curso/tema1/img11.png', style="width: 350px").m-auto
           .row.justify-content-center(titulo="Videos")
             .col-lg-7.mb-4.mb-lg-0
-              p Los videos son una de las estrategias de #[i marketing] de contenido que ayudan a posicionar de manera más rápida un producto, servicio o marca, los videos son contenido audiovisual empleados para realizar publicidad, pero también como tutoriales, entrevistas, historias, retos entre otros; otras de las ventajas de los videos es que se pueden involucrar en diferentes contenidos digitales como los #[i Blog], #[i Newsletter].
+              p Los videos son una de las estrategias de #[i marketing] de contenido que ayudan a posicionar de manera más rápida un producto, servicio o marca, los videos son contenido audiovisual empleados para realizar publicidad, pero también como tutoriales, entrevistas, historias, retos, entre otros; otras de las ventajas de los videos es que se pueden involucrar en diferentes contenidos digitales como los #[i Blogs], #[i Newsletter].
             .col-lg-4
               figure
                 img(src='@/assets/curso/tema1/img12.png', style="width: 350px").m-auto
           .row.justify-content-center(titulo="<em>E-book</em>")
             .col-lg-7.mb-4.mb-lg-0
               p Sin lugar a duda una de las industrias que se han debido transformar con la nueva era digital, ha sido la editoriales, por lo cual empiezan a publicar libros en formatos digitales.
-              p Los libros digitales, son más elaborados y extensos que los #[i post] en los #[i blog]; como también permiten que se descarguen en formatos establecidos; sin embargo, este contenido puede ser pago o gratuito, todo dependerá de la estrategia de #[i marketing]. 
+              p Los libros digitales, son más elaborados y extensos que los #[i post] en los #[i blogs]; como también permiten que se descarguen en formatos establecidos; sin embargo, este contenido puede ser pago o gratuito, todo dependerá de la estrategia de #[i marketing]. 
               p Se puede publicar libros digitales de forma gratuita con la finalidad de captar la atención de los consumidores, sobre un producto, servicio o marca; o con la finalidad de alimentar bases de datos a través de los registros en las páginas que albergan estos libros digitales.
             .col-lg-4
               figure
@@ -199,13 +199,13 @@
                 img(src='@/assets/curso/tema1/img14.png', style="width: 350px").m-auto
           .row.justify-content-center(titulo="Imágenes")
             .col-lg-7.mb-4.mb-lg-0
-              p Son contenido creativo a través de imágenes, postales o fotografías; en muchas ocasiones acompañan la publicación, también los #[i blog], videos, infografías, y diverso contenidos publicados en los canales digitales.
+              p Son contenido creativo a través de imágenes, postales o fotografías; en muchas ocasiones acompañan la publicación, también los #[i blogs], videos, infografías, y diverso contenidos publicados en los canales digitales.
             .col-lg-4
               figure
                 img(src='@/assets/curso/tema1/img16.png', style="width: 350px").m-auto
           .row.justify-content-center(titulo="<em>Webinar</em>")
             .col-lg-7.mb-4.mb-lg-0
-              p Son contenido digital creados con la finalidad de captar suscriptores o leads a través de un tema específico de interés como lo es la educación mediante videos algunos pueden ser #[i online] y otros pregrabados, todo dependerá de la estrategia creada.
+              p Son contenido digital creados con la finalidad de captar suscriptores o #[i leads] a través de un tema específico de interés como lo es la educación mediante videos algunos pueden ser #[i online] y otros pregrabados, todo dependerá de la estrategia creada.
             .col-lg-4
               figure
                 img(src='@/assets/curso/tema1/img15.png', style="width: 350px").m-auto

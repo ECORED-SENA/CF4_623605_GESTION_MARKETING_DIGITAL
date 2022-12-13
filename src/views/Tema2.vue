@@ -69,7 +69,7 @@
           .col-lg-7.mb-4.mb-lg-0
             h4 #[i Email] de #[i Marketing]
             p Los #[i email] son principalmente empleados para dar a conocer los portafolios de productos y servicios de las organizaciones, también es un medio empleado para comunicarse con los suscriptores. 
-            p Dentro de las principales ventajas se encuentra que es de bajo costo, permite ser comprobado, es de fácil gestión, es personalizado y logra la fidelización de los #[i buyer] persona o leads.
+            p Dentro de las principales ventajas se encuentra que es de bajo costo, permite ser comprobado, es de fácil gestión, es personalizado y logra la fidelización de los #[i buyer] persona o #[i leads].
           .col-lg-5
             figure
               img(src='@/assets/curso/tema2/img4.png', style="width: 450px").m-auto
@@ -216,7 +216,7 @@
             h4 Video #[i Marketing]
             p El video #[i marketing], hace parte de las estrategias del #[i marketing] digital, a través de la divulgación de contenido, mediante material audiovisuales, que permite impulsar un producto, servicio o marca.
             p Dentro de las acciones del video #[i marketing] se encuentran #[i unboxing] “desempaquetado”, busca que los consumidores experimenten conocer un producto o marca, por lo cual se graba un video en el que estos se encuentran destapando el producto; por lo general son producidos por #[i influencers].
-            p Dentro de los video #[i marketing] se encuentran los tutoriales, en el cual mediante un video de informa o enseña sobre un tema de interés; dentro de estos videos de #[i marketing], también se destacan los #[i webinar].
+            p Dentro de los video #[i marketing] se encuentran los tutoriales, en el cual mediante un video se informa o enseña sobre un tema de interés; dentro de estos videos de #[i marketing], también se destacan los #[i webinar].
             p Los #[i webinar] o videoconferencias, permiten informar o tratar de un tema de interés para el #[i buyer] personas; estos #[i webinar] por lo general son seminarios que se transmiten en vivo o pueden estar pregrabados. La implementación de los #[i webinar] permite educar, informar sobre un producto o servicios, atraer nuevos #[i leads].
           .col-lg-5
             figure
