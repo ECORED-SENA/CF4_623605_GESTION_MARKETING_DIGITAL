@@ -154,7 +154,7 @@
     .row
       .col-lg-9.mb-4.mb-lg-0(data-aos="fade-right")
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
-          .row.justify-content-center(titulo="Los <em>Blog</em>")
+          .row.justify-content-center(titulo="Los <em>Blogs</em>")
             .col-lg-7.mb-4.mb-lg-0
               p Los cuales son una página #[i web] que combina texto, imágenes e incluso video para comunicarse con tu #[i buyer] persona dentro de tu sitio #[i web]. 
               p Los temas para tratar en los #[i Blogs] no son netamente publicitarios; lo que aquí se publica debe ser de interés para el #[i buyer] personas, que lo informe o brinde una solución, la cual debe estar relacionada con el producto, servicio o marca.
