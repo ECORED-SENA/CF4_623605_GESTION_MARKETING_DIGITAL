@@ -1,0 +1,309 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1240" height="546.333" viewBox="0 0 1240 546.333">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.386" y1="1" x2="0.39" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff808f"/>
+      <stop offset="1" stop-color="#fc576b"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Rectangle_652" data-name="Rectangle 652" d="M1220.473,0H19.528C8.743,0,0,9.054,0,20.224v505.59c0,11.169,8.743,20.224,19.528,20.224H1220.473c10.785,0,19.527-9.054,19.527-20.224V20.224C1240,9.054,1231.257,0,1220.473,0Z" transform="translate(224.333 70)" fill="url(#linear-gradient)"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_91124" data-name="Grupo 91124" transform="translate(-180 -583)">
+    <rect id="Rectángulo_34075" data-name="Rectángulo 34075" width="1240" height="546" rx="20" transform="translate(180 583)" fill="#21155c"/>
+    <g id="Enmascarar_grupo_67" data-name="Enmascarar grupo 67" transform="translate(-44.333 513.296)" clip-path="url(#clip-path)">
+      <g id="Grupo_91119" data-name="Grupo 91119" transform="translate(51.82 -46.055)" opacity="0.37" style="isolation: isolate">
+        <g id="Grupo_91046" data-name="Grupo 91046" transform="translate(454.667 106.55)" style="mix-blend-mode: soft-light;isolation: isolate">
+          <g id="Grupo_91029" data-name="Grupo 91029" transform="translate(0 9.083)">
+            <circle id="Elipse_4975" data-name="Elipse 4975" cx="2.896" cy="2.896" r="2.896" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91030" data-name="Grupo 91030" transform="translate(16.741)">
+            <circle id="Elipse_4976" data-name="Elipse 4976" cx="2.869" cy="2.869" r="2.869" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91031" data-name="Grupo 91031" transform="translate(52.775 24.532)">
+            <circle id="Elipse_4977" data-name="Elipse 4977" cx="2.067" cy="2.067" r="2.067" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91032" data-name="Grupo 91032" transform="translate(54.228 87.838)">
+            <circle id="Elipse_4978" data-name="Elipse 4978" cx="0.601" cy="0.601" r="0.601" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91033" data-name="Grupo 91033" transform="translate(61.117 87.298)">
+            <circle id="Elipse_4979" data-name="Elipse 4979" cx="1.281" cy="1.281" r="1.281" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91034" data-name="Grupo 91034" transform="translate(34.374 110.403)">
+            <circle id="Elipse_4980" data-name="Elipse 4980" cx="0.723" cy="0.723" r="0.723" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91035" data-name="Grupo 91035" transform="translate(84.229 89.63)">
+            <circle id="Elipse_4981" data-name="Elipse 4981" cx="1.584" cy="1.584" r="1.584" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91036" data-name="Grupo 91036" transform="translate(120.059 133.045)">
+            <circle id="Elipse_4982" data-name="Elipse 4982" cx="2.477" cy="2.477" r="2.477" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91037" data-name="Grupo 91037" transform="translate(160.48 175.466)">
+            <circle id="Elipse_4983" data-name="Elipse 4983" cx="0.757" cy="0.757" r="0.757" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91038" data-name="Grupo 91038" transform="translate(213.939 169.994)">
+            <circle id="Elipse_4984" data-name="Elipse 4984" cx="3.112" cy="3.112" r="3.112" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91039" data-name="Grupo 91039" transform="translate(225.633 241.627)">
+            <circle id="Elipse_4985" data-name="Elipse 4985" cx="0.668" cy="0.668" r="0.668" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91040" data-name="Grupo 91040" transform="translate(281.909 205.011)">
+            <circle id="Elipse_4986" data-name="Elipse 4986" cx="2.832" cy="2.832" r="2.832" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91041" data-name="Grupo 91041" transform="translate(345.475 177.435)">
+            <circle id="Elipse_4987" data-name="Elipse 4987" cx="2.726" cy="2.726" r="2.726" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91042" data-name="Grupo 91042" transform="translate(393.97 253.444)">
+            <circle id="Elipse_4988" data-name="Elipse 4988" cx="0.398" cy="0.398" r="0.398" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91043" data-name="Grupo 91043" transform="translate(332.772 285.12)">
+            <circle id="Elipse_4989" data-name="Elipse 4989" cx="0.568" cy="0.568" r="0.568" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91044" data-name="Grupo 91044" transform="translate(328.807 300.962)">
+            <circle id="Elipse_4990" data-name="Elipse 4990" cx="0.901" cy="0.901" r="0.901" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91045" data-name="Grupo 91045" transform="translate(429.353 294.917)">
+            <circle id="Elipse_4991" data-name="Elipse 4991" cx="1.747" cy="1.747" r="1.747" transform="translate(0)" fill="#764cf0"/>
+          </g>
+        </g>
+        <g id="Grupo_91064" data-name="Grupo 91064" transform="translate(386.285 164.843)" style="mix-blend-mode: soft-light;isolation: isolate">
+          <g id="Grupo_91047" data-name="Grupo 91047" transform="translate(0 9.083)">
+            <circle id="Elipse_4992" data-name="Elipse 4992" cx="2.896" cy="2.896" r="2.896" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91048" data-name="Grupo 91048" transform="translate(16.741)">
+            <circle id="Elipse_4993" data-name="Elipse 4993" cx="2.869" cy="2.869" r="2.869" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91049" data-name="Grupo 91049" transform="translate(52.775 24.532)">
+            <circle id="Elipse_4994" data-name="Elipse 4994" cx="2.067" cy="2.067" r="2.067" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91050" data-name="Grupo 91050" transform="translate(54.228 87.838)">
+            <circle id="Elipse_4995" data-name="Elipse 4995" cx="0.601" cy="0.601" r="0.601" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91051" data-name="Grupo 91051" transform="translate(61.117 87.298)">
+            <circle id="Elipse_4996" data-name="Elipse 4996" cx="1.281" cy="1.281" r="1.281" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91052" data-name="Grupo 91052" transform="translate(34.374 110.403)">
+            <circle id="Elipse_4997" data-name="Elipse 4997" cx="0.723" cy="0.723" r="0.723" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91053" data-name="Grupo 91053" transform="translate(84.229 89.63)">
+            <circle id="Elipse_4998" data-name="Elipse 4998" cx="1.584" cy="1.584" r="1.584" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91054" data-name="Grupo 91054" transform="translate(120.059 133.045)">
+            <circle id="Elipse_4999" data-name="Elipse 4999" cx="2.477" cy="2.477" r="2.477" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91055" data-name="Grupo 91055" transform="translate(160.48 175.466)">
+            <circle id="Elipse_5000" data-name="Elipse 5000" cx="0.757" cy="0.757" r="0.757" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91056" data-name="Grupo 91056" transform="translate(213.939 169.994)">
+            <circle id="Elipse_5001" data-name="Elipse 5001" cx="3.112" cy="3.112" r="3.112" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91057" data-name="Grupo 91057" transform="translate(225.633 241.627)">
+            <circle id="Elipse_5002" data-name="Elipse 5002" cx="0.668" cy="0.668" r="0.668" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91058" data-name="Grupo 91058" transform="translate(281.909 205.011)">
+            <circle id="Elipse_5003" data-name="Elipse 5003" cx="2.832" cy="2.832" r="2.832" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91059" data-name="Grupo 91059" transform="translate(345.475 177.435)">
+            <circle id="Elipse_5004" data-name="Elipse 5004" cx="2.726" cy="2.726" r="2.726" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91060" data-name="Grupo 91060" transform="translate(393.97 253.444)">
+            <circle id="Elipse_5005" data-name="Elipse 5005" cx="0.398" cy="0.398" r="0.398" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91061" data-name="Grupo 91061" transform="translate(332.772 285.12)">
+            <circle id="Elipse_5006" data-name="Elipse 5006" cx="0.568" cy="0.568" r="0.568" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91062" data-name="Grupo 91062" transform="translate(328.807 300.962)">
+            <circle id="Elipse_5007" data-name="Elipse 5007" cx="0.901" cy="0.901" r="0.901" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91063" data-name="Grupo 91063" transform="translate(429.353 294.917)">
+            <circle id="Elipse_5008" data-name="Elipse 5008" cx="1.747" cy="1.747" r="1.747" transform="translate(0)" fill="#764cf0"/>
+          </g>
+        </g>
+        <g id="Grupo_91086" data-name="Grupo 91086" transform="translate(18.21 160.381)" style="mix-blend-mode: soft-light;isolation: isolate">
+          <g id="Grupo_91065" data-name="Grupo 91065" transform="translate(778.174 368.625)">
+            <circle id="Elipse_5009" data-name="Elipse 5009" cx="2.223" cy="2.223" r="2.223" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91066" data-name="Grupo 91066" transform="translate(730.687 408.776)">
+            <circle id="Elipse_5010" data-name="Elipse 5010" cx="1.907" cy="1.907" r="1.907" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91067" data-name="Grupo 91067" transform="translate(694.619 354.09)">
+            <circle id="Elipse_5011" data-name="Elipse 5011" cx="1.703" cy="1.703" r="1.703" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91068" data-name="Grupo 91068" transform="translate(602.483 385.05)">
+            <circle id="Elipse_5012" data-name="Elipse 5012" cx="2.558" cy="2.558" r="2.558" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91069" data-name="Grupo 91069" transform="translate(577.799 285.204)">
+            <circle id="Elipse_5013" data-name="Elipse 5013" cx="1.398" cy="1.398" r="1.398" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91070" data-name="Grupo 91070" transform="translate(501.751 316.352)">
+            <circle id="Elipse_5014" data-name="Elipse 5014" cx="0.772" cy="0.772" r="0.772" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91071" data-name="Grupo 91071" transform="translate(436.727 376.934)">
+            <circle id="Elipse_5015" data-name="Elipse 5015" cx="1.471" cy="1.471" r="1.471" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91072" data-name="Grupo 91072" transform="translate(416.715 283.863)">
+            <circle id="Elipse_5016" data-name="Elipse 5016" cx="1.085" cy="1.085" r="1.085" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91073" data-name="Grupo 91073" transform="translate(368.518 292.016)">
+            <circle id="Elipse_5017" data-name="Elipse 5017" cx="1.605" cy="1.605" r="1.605" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91074" data-name="Grupo 91074" transform="translate(298.587 309.973)">
+            <circle id="Elipse_5018" data-name="Elipse 5018" cx="2.586" cy="2.586" r="2.586" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91075" data-name="Grupo 91075" transform="translate(304.877 288.815)">
+            <circle id="Elipse_5019" data-name="Elipse 5019" cx="3.282" cy="3.282" r="3.282" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91076" data-name="Grupo 91076" transform="translate(229.15 311.864)">
+            <circle id="Elipse_5020" data-name="Elipse 5020" cx="2.816" cy="2.816" r="2.816" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91077" data-name="Grupo 91077" transform="translate(228.124 241.266)">
+            <circle id="Elipse_5021" data-name="Elipse 5021" cx="1.711" cy="1.711" r="1.711" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91078" data-name="Grupo 91078" transform="translate(258.459 198.575)">
+            <circle id="Elipse_5022" data-name="Elipse 5022" cx="1.196" cy="1.196" r="1.196" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91079" data-name="Grupo 91079" transform="translate(205.819 163.644)">
+            <circle id="Elipse_5023" data-name="Elipse 5023" cx="3.094" cy="3.094" r="3.094" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91080" data-name="Grupo 91080" transform="translate(289.515 109.673)">
+            <circle id="Elipse_5024" data-name="Elipse 5024" cx="0.96" cy="0.96" r="0.96" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91081" data-name="Grupo 91081" transform="translate(205.178 71.253)">
+            <circle id="Elipse_5025" data-name="Elipse 5025" cx="2.162" cy="2.162" r="2.162" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91082" data-name="Grupo 91082" transform="translate(122.682 82.537)">
+            <circle id="Elipse_5026" data-name="Elipse 5026" cx="2.293" cy="2.293" r="2.293" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91083" data-name="Grupo 91083" transform="translate(78.56 124.158)">
+            <circle id="Elipse_5027" data-name="Elipse 5027" cx="0.758" cy="0.758" r="0.758" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91084" data-name="Grupo 91084" transform="translate(48.632 119.523)">
+            <circle id="Elipse_5028" data-name="Elipse 5028" cx="1.883" cy="1.883" r="1.883" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91085" data-name="Grupo 91085" transform="translate(0)">
+            <circle id="Elipse_5029" data-name="Elipse 5029" cx="3.024" cy="3.024" r="3.024" fill="#764cf0"/>
+          </g>
+        </g>
+        <g id="Grupo_91095" data-name="Grupo 91095" transform="translate(154.336 13.15)" style="mix-blend-mode: soft-light;isolation: isolate">
+          <g id="Grupo_91087" data-name="Grupo 91087" transform="translate(110.111 120.478)">
+            <circle id="Elipse_5030" data-name="Elipse 5030" cx="0.524" cy="0.524" r="0.524" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91088" data-name="Grupo 91088" transform="translate(102.383 184.134)">
+            <circle id="Elipse_5031" data-name="Elipse 5031" cx="0.371" cy="0.371" r="0.371" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91089" data-name="Grupo 91089" transform="translate(75.657 235.482)">
+            <circle id="Elipse_5032" data-name="Elipse 5032" cx="2.382" cy="2.382" r="2.382" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91090" data-name="Grupo 91090" transform="translate(70.125 211.092)">
+            <circle id="Elipse_5033" data-name="Elipse 5033" cx="1.593" cy="1.593" r="1.593" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91091" data-name="Grupo 91091" transform="translate(61.634 160.916)">
+            <circle id="Elipse_5034" data-name="Elipse 5034" cx="1.151" cy="1.151" r="1.151" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91092" data-name="Grupo 91092" transform="translate(88.557 121.697)">
+            <circle id="Elipse_5035" data-name="Elipse 5035" cx="0.804" cy="0.804" r="0.804" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91093" data-name="Grupo 91093" transform="translate(22.458 82.782)">
+            <circle id="Elipse_5036" data-name="Elipse 5036" cx="1.386" cy="1.386" r="1.386" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91094" data-name="Grupo 91094" transform="translate(0)">
+            <circle id="Elipse_5037" data-name="Elipse 5037" cx="2.9" cy="2.9" r="2.9" fill="#764cf0"/>
+          </g>
+        </g>
+        <g id="Grupo_91101" data-name="Grupo 91101" transform="translate(738.249 436.415)" style="mix-blend-mode: soft-light;isolation: isolate">
+          <g id="Grupo_91096" data-name="Grupo 91096" transform="translate(0 51.703)">
+            <circle id="Elipse_5038" data-name="Elipse 5038" cx="0.769" cy="0.769" r="0.769" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91097" data-name="Grupo 91097" transform="translate(14.024 81.872)">
+            <circle id="Elipse_5039" data-name="Elipse 5039" cx="2.102" cy="2.102" r="2.102" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91098" data-name="Grupo 91098" transform="translate(73.747)">
+            <circle id="Elipse_5040" data-name="Elipse 5040" cx="2.649" cy="2.649" r="2.649" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91099" data-name="Grupo 91099" transform="translate(7.771 59.142)">
+            <circle id="Elipse_5041" data-name="Elipse 5041" cx="3.163" cy="3.163" r="3.163" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91100" data-name="Grupo 91100" transform="translate(25.856 73.529)">
+            <circle id="Elipse_5042" data-name="Elipse 5042" cx="1.691" cy="1.691" r="1.691" transform="translate(0)" fill="#764cf0"/>
+          </g>
+        </g>
+        <g id="Grupo_91109" data-name="Grupo 91109" transform="translate(434.533 596.205)" style="mix-blend-mode: soft-light;isolation: isolate">
+          <g id="Grupo_91102" data-name="Grupo 91102" transform="translate(0 105.226)">
+            <circle id="Elipse_5043" data-name="Elipse 5043" cx="1.14" cy="1.14" r="1.14" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91103" data-name="Grupo 91103" transform="translate(73.281 83.802)">
+            <circle id="Elipse_5044" data-name="Elipse 5044" cx="0.861" cy="0.861" r="0.861" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91104" data-name="Grupo 91104" transform="translate(70.088 37.049)">
+            <circle id="Elipse_5045" data-name="Elipse 5045" cx="3.305" cy="3.305" r="3.305" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91105" data-name="Grupo 91105" transform="translate(116.809 14.33)">
+            <circle id="Elipse_5046" data-name="Elipse 5046" cx="0.375" cy="0.375" r="0.375" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91106" data-name="Grupo 91106" transform="translate(151.76)">
+            <circle id="Elipse_5047" data-name="Elipse 5047" cx="0.5" cy="0.5" r="0.5" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91107" data-name="Grupo 91107" transform="translate(193.204 24.465)">
+            <circle id="Elipse_5048" data-name="Elipse 5048" cx="3.083" cy="3.083" r="3.083" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91108" data-name="Grupo 91108" transform="translate(173.156 74.957)">
+            <circle id="Elipse_5049" data-name="Elipse 5049" cx="1.272" cy="1.272" r="1.272" transform="translate(0)" fill="#764cf0"/>
+          </g>
+        </g>
+        <g id="Grupo_91118" data-name="Grupo 91118" transform="translate(608.474 96.069)" style="mix-blend-mode: soft-light;isolation: isolate">
+          <g id="Grupo_91110" data-name="Grupo 91110" transform="translate(0)">
+            <circle id="Elipse_5050" data-name="Elipse 5050" cx="1.851" cy="1.851" r="1.851" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91111" data-name="Grupo 91111" transform="translate(52.703 16.851)">
+            <circle id="Elipse_5051" data-name="Elipse 5051" cx="2.97" cy="2.97" r="2.97" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91112" data-name="Grupo 91112" transform="translate(56.606 105.255)">
+            <circle id="Elipse_5052" data-name="Elipse 5052" cx="1.826" cy="1.826" r="1.826" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91113" data-name="Grupo 91113" transform="translate(53.839 100.558)">
+            <circle id="Elipse_5053" data-name="Elipse 5053" cx="2.411" cy="2.411" r="2.411" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91114" data-name="Grupo 91114" transform="translate(108.515 68.998)">
+            <circle id="Elipse_5054" data-name="Elipse 5054" cx="2.932" cy="2.932" r="2.932" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91115" data-name="Grupo 91115" transform="translate(134.752 57.674)">
+            <circle id="Elipse_5055" data-name="Elipse 5055" cx="0.783" cy="0.783" r="0.783" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91116" data-name="Grupo 91116" transform="translate(173.127 107.391)">
+            <circle id="Elipse_5056" data-name="Elipse 5056" cx="1.77" cy="1.77" r="1.77" transform="translate(0)" fill="#764cf0"/>
+          </g>
+          <g id="Grupo_91117" data-name="Grupo 91117" transform="translate(144.401 124.647)">
+            <circle id="Elipse_5057" data-name="Elipse 5057" cx="3.073" cy="3.073" r="3.073" transform="translate(0)" fill="#764cf0"/>
+          </g>
+        </g>
+        <ellipse id="Elipse_5058" data-name="Elipse 5058" cx="27.115" cy="27.115" rx="27.115" ry="27.115" transform="matrix(-0.884, -0.468, 0.468, -0.884, 225.134, 197.736)" fill="#764cf0" style="mix-blend-mode: screen;isolation: isolate"/>
+        <ellipse id="Elipse_5059" data-name="Elipse 5059" cx="26.131" cy="26.131" rx="26.131" ry="26.131" transform="matrix(-0.925, -0.379, 0.379, -0.925, 774.783, 516.913)" fill="#764cf0" style="mix-blend-mode: screen;isolation: isolate"/>
+        <ellipse id="Elipse_5060" data-name="Elipse 5060" cx="14.691" cy="14.691" rx="14.691" ry="14.691" transform="translate(289.592 198.438) rotate(-103.232)" fill="#764cf0" style="mix-blend-mode: soft-light;isolation: isolate"/>
+        <circle id="Elipse_5061" data-name="Elipse 5061" cx="17.656" cy="17.656" r="17.656" transform="translate(666.545 232.056)" fill="#764cf0" style="mix-blend-mode: soft-light;isolation: isolate"/>
+        <ellipse id="Elipse_5062" data-name="Elipse 5062" cx="14.993" cy="14.993" rx="14.993" ry="14.993" transform="matrix(-0.142, -0.99, 0.99, -0.142, 312.848, 534.185)" fill="#764cf0" style="mix-blend-mode: screen;isolation: isolate"/>
+        <ellipse id="Elipse_5063" data-name="Elipse 5063" cx="14.372" cy="14.372" rx="14.372" ry="14.372" transform="translate(666.717 523.473) rotate(-102.424)" fill="#764cf0" style="mix-blend-mode: soft-light;isolation: isolate"/>
+        <circle id="Elipse_5064" data-name="Elipse 5064" cx="9.015" cy="9.015" r="9.015" transform="translate(241.247 209.822)" fill="#764cf0" style="mix-blend-mode: soft-light;isolation: isolate"/>
+        <path id="Trazado_114538" data-name="Trazado 114538" d="M112.194,269.623a8.819,8.819,0,1,0,8.82-8.82A8.819,8.819,0,0,0,112.194,269.623Z" transform="translate(572.707 168.78)" fill="#764cf0" style="mix-blend-mode: soft-light;isolation: isolate"/>
+        <circle id="Elipse_5065" data-name="Elipse 5065" cx="7.212" cy="7.212" r="7.212" transform="translate(291.393 540.896)" fill="#764cf0" style="mix-blend-mode: soft-light;isolation: isolate"/>
+      </g>
+      <g id="Grupo_91122" data-name="Grupo 91122" transform="translate(867.653 -47.84)">
+        <g id="Grupo_91121" data-name="Grupo 91121" transform="translate(-659.652 578.805)">
+          <path id="Trazado_114542" data-name="Trazado 114542" d="M148.224,589.473l-208.79-99.465v16.78l195.039,82.685Z" transform="translate(68.105 -490.009)" fill="#636363" style="mix-blend-mode: multiply;isolation: isolate"/>
+          <path id="Trazado_114543" data-name="Trazado 114543" d="M149.586,590.724-70.259,495.636v95.087Z" transform="translate(70.259 -491.259)" fill="#ffd41c"/>
+        </g>
+        <image id="Rectángulo_34076" data-name="Rectángulo 34076" width="313.44" height="135.6" transform="translate(-661.716 117.84)" opacity="0.6" xlink:href="data:image/png;base64,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" style="mix-blend-mode: overlay;isolation: isolate"/>
+      </g>
+      <g id="Grupo_91123" data-name="Grupo 91123" transform="translate(557.521 279.195)">
+        <path id="Trazado_114544" data-name="Trazado 114544" d="M846.334,162.251c-13.394-6.314-26.853-12.431-40.23-18.5-66.953-30.377-136.173-61.8-187.725-116.286-39.17-41.4-65.256-95.731-73.446-152.944a268.64,268.64,0,0,1,1.876-89.384h-9.968a278.469,278.469,0,0,0-1.6,90.771c8.483,59.2,35.483,115.422,76.023,158.279,52.874,55.875,122.991,87.7,190.792,118.472,14.732,6.689,29.561,13.41,44.276,20.441Z" transform="translate(72.691 31.078)" fill="#fff"/>
+        <circle id="Elipse_5066" data-name="Elipse 5066" cx="58.337" cy="58.337" r="58.337" transform="translate(848.435 43.574)" fill="#26d19e"/>
+        <circle id="Elipse_5067" data-name="Elipse 5067" cx="61.818" cy="61.818" r="61.818" transform="translate(462.57 -212.894) rotate(-17.032)" fill="#26d19e"/>
+        <rect id="Rectángulo_34077" data-name="Rectángulo 34077" width="193.101" height="193.1" rx="16.363" transform="translate(725.293 -219.101) rotate(-25.905)" fill="#ffd41c"/>
+        <rect id="Rectángulo_34078" data-name="Rectángulo 34078" width="49.67" height="49.67" rx="9" transform="translate(-314.567 168.026) rotate(-25.905)" fill="#ffd41c"/>
+        <path id="Rectángulo_34079" data-name="Rectángulo 34079" d="M10.312,0H72.777A10.311,10.311,0,0,1,83.088,10.311V72.777A10.312,10.312,0,0,1,72.777,83.088H10.312A10.312,10.312,0,0,1,0,72.777V10.312A10.312,10.312,0,0,1,10.312,0Z" transform="matrix(0.945, 0.327, -0.327, 0.945, 653.332, 212.704)" fill="#26d19e"/>
+        <circle id="Elipse_5068" data-name="Elipse 5068" cx="15.278" cy="15.278" r="15.278" transform="translate(781.702 80.272) rotate(-7.036)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1" style="mix-blend-mode: overlay;isolation: isolate"/>
+        <path id="Trazado_114545" data-name="Trazado 114545" d="M598.834-182.525A15.279,15.279,0,0,0,583.557-197.8a15.279,15.279,0,0,0-15.279,15.279,15.278,15.278,0,0,0,15.279,15.277A15.277,15.277,0,0,0,598.834-182.525Z" transform="translate(90.08 39.32)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1" style="mix-blend-mode: overlay;isolation: isolate"/>
+        <circle id="Elipse_5069" data-name="Elipse 5069" cx="25.124" cy="25.124" r="25.124" transform="translate(381.812 -204.322)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1" style="mix-blend-mode: overlay;isolation: isolate"/>
+        <circle id="Elipse_5070" data-name="Elipse 5070" cx="41.804" cy="41.804" r="41.804" transform="translate(853.494 -66.134) rotate(-13.448)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1" style="mix-blend-mode: overlay;isolation: isolate"/>
+      </g>
+    </g>
+  </g>
+</svg>
